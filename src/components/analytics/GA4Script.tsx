@@ -1,6 +1,8 @@
 import Script from 'next/script';
 
-const GA_ID = process.env.NEXT_PUBLIC_GA4_ID;
+// GA4 Measurement ID 公开可见（HTML 源码可读），无需保密
+// 硬编码避免依赖部署环境变量（Makers 默认不注入 NEXT_PUBLIC_*）
+const GA_ID = process.env.NEXT_PUBLIC_GA4_ID ?? 'G-YHL9Z69SJE';
 
 export function GA4Script() {
   if (!GA_ID) return null;
