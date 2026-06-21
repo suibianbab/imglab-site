@@ -2,7 +2,7 @@
   "slug": "demo-template",
   "title": "电商主图-产品特写模板",
   "scene": "ecommerce",
-  "preview_image": "https://img.imglab.cn/templates/demo-template.png",
+  "preview_image": "/assets/evolinkai-011/v1.png",
   "prompt_template": "产品特写，{product}，{background}，柔和自然光，极简构图，高细节",
   "variables": ["product", "background"],
   "published_at": "2026-06-20"
