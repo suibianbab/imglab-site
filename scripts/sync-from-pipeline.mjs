@@ -58,6 +58,10 @@ function syncOne(srcDir, destDir, label) {
       console.log(`[preserve] ${slug}（脚手架数据，不覆盖）`);
       continue;
     }
+    // 规范化 image_url 为绝对路径（next.config.ts trailingSlash:true 下相对路径会按 URL 层级解析出错）
+    if (typeof data.image_url === 'string' && !data.image_url.startsWith('/') && !data.image_url.startsWith('http')) {
+      data.image_url = '/' + data.image_url;
+    }
     writeFileSync(join(destDir, `${slug}.json`), JSON.stringify(data, null, 2));
     if (!slugSet.has(slug)) {
       slugSet.add(slug);
