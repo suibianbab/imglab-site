@@ -1,0 +1,13 @@
+{
+  "slug": "evolinkai-002",
+  "title": "这条 prompt 详细描述了如何将一张简单的休闲产品照片转化为一系列高质量的电商广告素材，适合用于制作短视频广告或社交媒体营销内容，能够吸引目标用户的注意力并提升品牌形象。",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-002/v1.png",
+  "image_alt": "这条 prompt 详细描述了如何将一张简单的休闲产品照片转化为一系列高质量的电商广告素材，适合用于制作短视频广告或社交媒体营销内容，能够吸引目标用户的注意力并提升品牌形象。",
+  "prompt_original": "Using the provided reference image, transform the single casual product photo into a polished e-commerce TVC storyboard board for a {argument name=\"video duration\" default=\"15-second\"} ad in a {argument name=\"aspect ratio\" default=\"9:16\"} vertical format, presented as a 9-panel grid. Keep the same blue-and-white ceramic ashtray as the product base, but restage it across cinematic advertising shots with warm premium lighting, shallow depth of field, and a refined lifestyle desktop environment. Add a dark storyboard layout with Chinese titles and timing for each panel. Include exactly 9 scenes: 1) environment-establishing wide shot with desk, books, window, and the product placed in context; 2) hero product medium shot on the table; 3) extreme close-up of the blue floral craftsmanship pattern; 4) use case showing a hand placing a cigarette into the ashtray with visible smoke; 5) top-down capacity display showing multiple cigarette butts inside; 6) cleaning scene under running water in a sink with a hand holding the product; 7) bottom-detail close-up showing the underside and anti-slip pads; 8) mood/lifestyle scene at night with the product on a desk, smoke rising, and ambient lamp light; 9) brand closing frame with the product as the hero plus Chinese marketing text. Add the overall header text \"产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)\" and a product subtitle naming it {argument name=\"product name\" default=\"青花瓷烟灰缸\"}. Give each of the 9 panels a Chinese scene title and timestamp, plus small descriptive Chinese copy beneath each image in the style of a professional commercial shot list. Use premium, realistic commercial photography throughout, consistent product identity, elegant Chinese aesthetic, and a clean high-end storyboard presentation.",
+  "prompt_zh": "根据提供的参考图片，将单张休闲产品照片转换为适用于15秒广告的精美的电子商务TVC故事板，格式为9:16竖屏，呈现为9宫格。保持原有的蓝白陶瓷烟灰缸作为产品基础，但在电影广告镜头中重新布置，使用温暖的高端照明、浅景深和精致的生活桌面环境。添加一个带有中文标题和时间戳的暗色故事板布局。包括以下9个场景：1) 宽镜头展示环境，包括书桌、书籍、窗户以及放置在其中的产品；2) 桌面上产品的中景镜头；3) 蓝色花卉工艺图案的特写镜头；4) 使用场景，展示一只手将香烟放入烟灰缸，并可见烟雾；5) 俯视图展示烟灰缸内的多个烟头；6) 清洁场景，在水槽下冲洗产品，一只手拿着产品；7) 底部细节特写，展示底部和防滑垫；8) 夜间氛围/生活方式场景，产品放在书桌上，烟雾上升，环境灯光柔和；9) 品牌结尾画面，产品为主角加上中文营销文字。添加整体标题文本“产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)”和产品副标题命名为青花瓷烟灰缸。为每个9个面板添加中文场景标题和时间戳，以及每张图片下方的小段描述性中文文案，风格类似于专业的商业拍摄列表。整个过程中使用高端、真实的商业摄影，保持一致的产品身份，优雅的中式美学，以及干净的高端故事板呈现。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-06-21"
+}
