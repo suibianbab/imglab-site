@@ -4,7 +4,7 @@
   "scene": "ecommerce",
   "industry": "beauty",
   "style": "minimal",
-  "image_url": "https://img.imglab.cn/cases/demo-ecommerce-skincare.png",
+  "image_url": "/assets/evolinkai-014/v1.png",
   "image_alt": "清新风格美妆产品主图",
   "prompt_original": "A clean product shot of a skincare bottle on a soft pastel background, soft natural light, minimalist composition, high detail",
   "prompt_zh": "一张护肤品瓶身的干净产品照，柔和粉彩背景，柔和自然光，极简构图，高细节",
