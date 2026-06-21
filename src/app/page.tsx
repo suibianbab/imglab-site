@@ -5,14 +5,16 @@ import { TemplateCard } from '@/components/templates/TemplateCard';
 import { CTAButton } from '@/components/cta/CTAButton';
 
 const sceneEntries = [
-  { scene: 'ecommerce', label: '电商主图', desc: '淘宝 / 京东 / 拼多多 详情页与主图' },
-  { scene: 'xhs', label: '小红书', desc: '种草图 / 笔记封面 / 大字报' },
-  { scene: 'wechat', label: '公众号封面', desc: '公众号头图 / 文章配图' },
-  { scene: 'cross-border', label: '跨境 Listing', desc: 'Amazon / Shopify / 独立站' },
+  { scene: 'ecommerce', label: '电商主图', desc: '淘宝 / 京东 / 拼多多 详情页与主图', image: '/assets/evolinkai-006/v1.png' },
+  { scene: 'xhs', label: '小红书', desc: '种草图 / 笔记封面 / 大字报', image: '/assets/evolinkai-043/v1.png' },
+  { scene: 'wechat', label: '公众号封面', desc: '公众号头图 / 文章配图', image: '/assets/evolinkai-028/v1.png' },
+  { scene: 'cross-border', label: '跨境 Listing', desc: 'Amazon / Shopify / 独立站', image: '/assets/evolinkai-014/v1.png' },
 ] as const;
 
 export default function HomePage() {
-  const cases = getAllCases().slice(0, 12);
+  const cases = getAllCases();
+  const featured = cases.slice(0, 8);
+  const rest = cases.slice(8);
   const templates = getAllTemplates().slice(0, 6);
 
   return (
@@ -49,10 +51,17 @@ export default function HomePage() {
           <Link href="/cases/" className="text-sm text-brand">查看全部 →</Link>
         </div>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-          {cases.map((c) => (
+          {featured.map((c) => (
             <CaseCard key={c.slug} caseData={c} />
           ))}
         </div>
+        {rest.length > 0 && (
+          <div className="mt-8 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+            {rest.map((c) => (
+              <CaseCard key={c.slug} caseData={c} />
+            ))}
+          </div>
+        )}
       </section>
 
       {/* 场景分类入口 */}
@@ -64,10 +73,19 @@ export default function HomePage() {
               <Link
                 key={entry.scene}
                 href={`/cases/?scene=${entry.scene}`}
-                className="block bg-white rounded-2xl p-6 hover:shadow-md transition-shadow"
+                className="group relative overflow-hidden rounded-2xl aspect-[4/3] block"
               >
-                <div className="font-medium text-ink mb-1">{entry.label}</div>
-                <div className="text-xs text-muted">{entry.desc}</div>
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={entry.image}
+                  alt={entry.label}
+                  className="absolute inset-0 w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                />
+                <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
+                <div className="absolute bottom-0 left-0 right-0 p-5 text-white">
+                  <div className="font-medium text-lg mb-1">{entry.label}</div>
+                  <div className="text-xs text-white/80">{entry.desc}</div>
+                </div>
               </Link>
             ))}
           </div>
