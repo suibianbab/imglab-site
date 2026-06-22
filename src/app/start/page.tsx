@@ -51,7 +51,7 @@ export default function StartPage() {
             <div className="flex-1">
               <h3 className="font-bold text-ink mb-1">注册 {brandTerms.apiProviderName}，拿 API Key</h3>
               <p className="text-sm text-muted mb-2">
-                {brandTerms.apiProviderName} 是 {brandTerms.primaryModel} 的 API 网关。注册后按 token 充值，本站案例规格（1024×1024 高清图）约 ¥1/张，在控制台拿到 API Key。
+                {brandTerms.apiProviderName} 是 {brandTerms.primaryModel} 的 API 网关。注册后充值，按 token 计费，本站案例规格（1024×1024 高清图）约 ¥1/张，在控制台拿到 API Key。
               </p>
               <div className="text-xs text-muted bg-paper rounded p-2">
                 💡 研图社专属入口：<code className="text-brand">{brandTerms.apiProviderRegisterUrl}</code>
