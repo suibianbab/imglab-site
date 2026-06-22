@@ -10,7 +10,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-3">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/favicon.svg" alt="研图社" className="w-6 h-6" />
+              <img src="/brand/logo-200.png" alt="研图社" className="w-6 h-6 rounded-sm" />
               <span className="font-bold">研图社 · ImgLab</span>
             </div>
             <p className="text-sm text-muted">

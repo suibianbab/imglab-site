@@ -14,7 +14,7 @@ export function Header() {
       <div className="container-page flex items-center justify-between h-14">
         <Link href="/" className="flex items-center gap-2 text-ink hover:text-brand">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img src="/favicon.svg" alt="研图社" className="w-7 h-7" />
+          <img src="/brand/logo-200.png" alt="研图社" className="w-7 h-7 rounded-sm" />
           <span className="font-bold text-lg">研图社</span>
         </Link>
         <nav className="hidden md:flex items-center gap-6">
