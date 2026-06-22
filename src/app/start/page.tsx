@@ -50,7 +50,7 @@ export default function StartPage() {
             <div className="flex-1">
               <h3 className="font-bold text-ink mb-1">注册 keys2api，拿 API Key</h3>
               <p className="text-sm text-muted mb-2">
-                keys2api 是 GPT-Image-2 的 API 网关。注册后充值（按张计费，每张约 $0.04），在控制台拿到 API Key。
+                keys2api 是 GPT-Image-2 的 API 网关。注册后按 token 充值，本站案例规格（1024×1024 高清图）约 ¥1/张，在控制台拿到 API Key。
               </p>
               <div className="text-xs text-muted bg-paper rounded p-2">
                 💡 研图社专属入口：<code className="text-brand">keys2api.com/register?ref=imglab</code>
@@ -93,7 +93,7 @@ export default function StartPage() {
         <div className="space-y-4 text-sm">
           <div>
             <div className="font-medium text-ink mb-1">Q：为什么不直接用 ChatGPT？</div>
-            <p className="text-muted">ChatGPT 单月订阅 $20 起步且有限额。keys2api 按张计费，只为你实际生成的图付费，做营销图批量产出更便宜。</p>
+            <p className="text-muted">ChatGPT 单月订阅 $20 起步且有限额。keys2api 按 token 计费，只为你实际生成的图付费（本站规格约 ¥1/张），做营销图批量产出更便宜。</p>
           </div>
           <div>
             <div className="font-medium text-ink mb-1">Q：我没有技术背景，能用吗？</div>
