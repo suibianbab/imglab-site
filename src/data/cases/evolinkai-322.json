@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-322",
+  "title": "这条提示详细规定了如何根据已有品牌标志生成一系列符合品牌形象的设计元素，适合需要建立或重塑品牌视觉识别系统的中文营销场景。",
+  "scene": "wechat",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-322/v1.png",
+  "image_alt": "这条提示详细规定了如何根据已有品牌标志生成一系列符合品牌形象的设计元素，适合需要建立或重塑品牌视觉识别系统的中文营销场景。",
+  "prompt_original": "Using the uploaded logo for (Brand name) generate a high-end, agency-grade brand identity system poster. ---  OBJECTIVE Create a complete, presentation-ready brand guideline board that looks like it was designed by a top branding studio.\n\nThe result must feel commercial, realistic, and client-deliverable, not conceptual. ---  INTELLIGENCE RULE (THIS IS WHAT YOU WERE MISSING) Before designing, analyze the logo and infer:3 identity traits (based on analysis) ---  COLOR SYSTEM (SMART GENERATION) Extract palette from logo automatically Include: Primary colors (3–5) Secondary colors (3–5) Accent colors Each must show: HEX codes labeled usage (primary / UI / highlight / background) Also generate: gradients color combinations tonal\n\nvariations ---  TYPOGRAPHY SYSTEM (MATCH PERSONALITY) Select typography style based on brand: luxury → elegant serif tech → geometric sans street → bold condensed",
+  "prompt_zh": "使用上传的 (品牌名称) 标志生成一个高端、具有代理级品质的品牌身份系统海报。--- 目标：创建一个完整的、可用于展示的品牌指南板，看起来像是由顶级品牌设计工作室设计的。结果必须感觉商业化、现实且可交付给客户，而不是概念性的。--- 智能规则（这是你所缺少的部分）在设计之前，分析标志并推断出3个基于分析的身份特征。--- 颜色系统（智能生成）从标志中自动提取调色板，包括：主要颜色（3-5种）、次要颜色（3-5种）、强调色。每种颜色都必须显示：带有用途标签的HEX代码（主要 / UI / 强调 / 背景）。还需生成：渐变色、颜色组合和色调变化。--- 字体系统（匹配个性）根据品牌选择字体风格：奢华 → 优雅衬线体；科技 → 几何无衬线体；街头 → 粗体紧缩。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-06-22"
+}
