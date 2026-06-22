@@ -73,8 +73,8 @@ export default async function CaseDetailPage({ params }: PageProps) {
           </details>
 
           <div className="bg-brand-50 rounded-2xl p-6 text-center">
-            <p className="text-sm text-ink mb-4">用这个 Prompt 自己生成一张</p>
-            <CTAButton position="case-detail" size="lg">立即生成</CTAButton>
+            <p className="text-sm text-ink mb-4">想用这个 Prompt 自己生成一张？</p>
+            <CTAButton position="case-detail" size="lg">查看生成方法</CTAButton>
           </div>
         </div>
       </div>

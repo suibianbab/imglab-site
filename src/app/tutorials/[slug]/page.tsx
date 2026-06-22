@@ -42,7 +42,7 @@ export default async function TutorialPage({ params }: PageProps) {
       </div>
       <div className="bg-brand-50 rounded-2xl p-6 text-center">
         <p className="text-sm text-ink mb-4">开始动手练习</p>
-        <CTAButton position="tutorial-end" size="lg">前往 keys2api 实操</CTAButton>
+        <CTAButton position="tutorial-end" size="lg" href="keys2api">前往 keys2api 实操</CTAButton>
       </div>
     </article>
   );

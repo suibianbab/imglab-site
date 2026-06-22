@@ -5,6 +5,7 @@ const navItems = [
   { href: '/cases/', label: '案例库' },
   { href: '/templates/', label: '模板库' },
   { href: '/tutorials/', label: '教程' },
+  { href: '/start/', label: '如何使用' },
 ];
 
 export function Header() {
@@ -27,7 +28,7 @@ export function Header() {
             </Link>
           ))}
         </nav>
-        <CTAButton position="nav" size="sm">免费试用</CTAButton>
+        <CTAButton position="nav" size="sm">开始使用</CTAButton>
       </div>
     </header>
   );

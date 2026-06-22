@@ -60,8 +60,8 @@ export default async function TemplateDetailPage({ params }: PageProps) {
             变量：{t.variables.map((v) => `{${v}}`).join(' · ')}
           </div>
           <div className="bg-brand-50 rounded-2xl p-6 text-center">
-            <p className="text-sm text-ink mb-4">复制模板到 keys2api 即可生成</p>
-            <CTAButton position="template-detail" size="lg">开始生成</CTAButton>
+            <p className="text-sm text-ink mb-4">想用这个模板自己生成？</p>
+            <CTAButton position="template-detail" size="lg">查看生成方法</CTAButton>
           </div>
         </div>
       </div>

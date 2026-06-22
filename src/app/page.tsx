@@ -30,7 +30,7 @@ export default function HomePage() {
             所有图片 100% 由 GPT-Image-2 自跑生成，保留原 Prompt 思想。
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
-            <CTAButton position="hero" size="lg">免费试用 GPT-Image-2</CTAButton>
+            <CTAButton position="hero" size="lg">如何自己生成？</CTAButton>
             <Link
               href="/cases/"
               className="inline-flex items-center justify-center px-6 py-3 text-lg font-medium rounded-lg border border-ink/10 text-ink hover:border-brand"

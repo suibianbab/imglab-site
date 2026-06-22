@@ -22,6 +22,7 @@ export function Footer() {
               <li><Link href="/cases/">精选案例</Link></li>
               <li><Link href="/templates/">Prompt 模板</Link></li>
               <li><Link href="/tutorials/">教程</Link></li>
+              <li><Link href="/start/">如何自己生成</Link></li>
             </ul>
           </div>
           <div>
@@ -29,7 +30,7 @@ export function Footer() {
             <p className="text-sm text-muted mb-3">
               所有图片由 keys2api.com 提供 GPT-Image-2 API 生成。
             </p>
-            <CTAButton position="footer" size="sm">立即使用 GPT-Image-2</CTAButton>
+            <CTAButton position="footer" size="sm">如何自己生成？</CTAButton>
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-ink/5 text-xs text-muted">
