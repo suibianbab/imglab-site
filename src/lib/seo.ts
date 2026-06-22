@@ -1,4 +1,5 @@
 import type { Case, Template } from './types';
+import { brandTerms } from './brand';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://imglab.cn';
 
@@ -9,7 +10,7 @@ export function caseJsonLd(caseData: Case) {
     contentUrl: caseData.image_url,
     name: caseData.title,
     description: caseData.prompt_zh,
-    creditText: '研图社 · GPT-Image-2',
+    creditText: brandTerms.creditText,
     acquireLicensePage: `${SITE_URL}/cases/${caseData.slug}/`,
   };
 }

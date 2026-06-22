@@ -2,19 +2,19 @@
 
 import { ReactNode } from 'react';
 import { trackCTA, type CTAPosition } from '@/lib/analytics';
+import { brandTerms } from '@/lib/brand';
 
-// 默认跳站内过渡页 /start/（解释 imglab.cn 与 keys2api 关系后再引导注册）
-// 需要直跳外部（如教程页末尾已铺垫过）传 href 覆盖
+// 默认跳站内过渡页 /start/（解释 imglab.cn 与 API 供应商关系后再引导注册）
+// 需要直跳外部（如教程页末尾已铺垫过）传 href="register" 覆盖
 const DEFAULT_HREF = '/start/';
-const KEYS2API_REGISTER = 'https://keys2api.com/register?ref=imglab';
 
 interface CTAButtonProps {
   position: CTAPosition;
   variant?: 'primary' | 'secondary' | 'ghost';
   size?: 'sm' | 'md' | 'lg';
   className?: string;
-  /** 默认跳 /start/ 过渡页；传 'keys2api' 直跳注册页；传完整 URL 自定义 */
-  href?: 'keys2api' | string;
+  /** 默认跳 /start/ 过渡页；传 'register' 直跳注册页；传完整 URL 自定义 */
+  href?: 'register' | string;
   children: ReactNode;
 }
 
@@ -38,8 +38,8 @@ export function CTAButton({
   href,
   children,
 }: CTAButtonProps) {
-  const isExternal = href === 'keys2api' || (typeof href === 'string' && href.startsWith('http'));
-  const targetHref = href === 'keys2api' ? KEYS2API_REGISTER : (href ?? DEFAULT_HREF);
+  const isExternal = href === 'register' || (typeof href === 'string' && href.startsWith('http'));
+  const targetHref = href === 'register' ? brandTerms.apiProviderRegisterUrl : (href ?? DEFAULT_HREF);
   return (
     <a
       href={targetHref}

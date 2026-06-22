@@ -1,9 +1,10 @@
 import type { Metadata } from 'next';
 import { CTAButton } from '@/components/cta/CTAButton';
+import { brandTerms } from '@/lib/brand';
 
 export const metadata: Metadata = {
   title: '如何自己生成？- 研图社',
-  description: '看到喜欢的案例，怎么用 GPT-Image-2 自己生成一张？3 步走，从注册 keys2api 到跑出第一张图。',
+  description: `看到喜欢的案例，怎么用 ${brandTerms.primaryModel} 自己生成一张？3 步走，从注册 ${brandTerms.apiProviderName} 到跑出第一张图。`,
 };
 
 export default function StartPage() {
@@ -30,14 +31,14 @@ export default function StartPage() {
             </p>
           </div>
           <div className="bg-white rounded-xl p-4">
-            <div className="font-medium text-ink mb-1">keys2api.com</div>
+            <div className="font-medium text-ink mb-1">{brandTerms.apiProviderDomain}</div>
             <p className="text-muted">
-              研图社的合作 API 供应商。提供 GPT-Image-2 图片生成 API，案例里所有的图都通过它跑出来。
+              研图社的合作 API 供应商。提供 {brandTerms.primaryModel} 图片生成 API，案例里所有的图都通过它跑出来。
             </p>
           </div>
         </div>
         <p className="text-xs text-muted mt-4 leading-relaxed">
-          简单说：研图社给你「看 + 学」，keys2api 给你「生成能力」。注册 keys2api 后，你就能用案例里的 Prompt 自己出图。
+          简单说：研图社给你「看 + 学」，{brandTerms.apiProviderName} 给你「生成能力」。注册 {brandTerms.apiProviderName} 后，你就能用案例里的 Prompt 自己出图。
         </p>
       </section>
 
@@ -48,12 +49,12 @@ export default function StartPage() {
           <li className="flex gap-4">
             <div className="flex-shrink-0 w-10 h-10 rounded-full bg-brand text-white flex items-center justify-center font-bold">1</div>
             <div className="flex-1">
-              <h3 className="font-bold text-ink mb-1">注册 keys2api，拿 API Key</h3>
+              <h3 className="font-bold text-ink mb-1">注册 {brandTerms.apiProviderName}，拿 API Key</h3>
               <p className="text-sm text-muted mb-2">
-                keys2api 是 GPT-Image-2 的 API 网关。注册后按 token 充值，本站案例规格（1024×1024 高清图）约 ¥1/张，在控制台拿到 API Key。
+                {brandTerms.apiProviderName} 是 {brandTerms.primaryModel} 的 API 网关。注册后按 token 充值，本站案例规格（1024×1024 高清图）约 ¥1/张，在控制台拿到 API Key。
               </p>
               <div className="text-xs text-muted bg-paper rounded p-2">
-                💡 研图社专属入口：<code className="text-brand">keys2api.com/register?ref=imglab</code>
+                💡 研图社专属入口：<code className="text-brand">{brandTerms.apiProviderRegisterUrl}</code>
               </div>
             </div>
           </li>
@@ -66,7 +67,7 @@ export default function StartPage() {
                 也可以直接套「<a href="/templates/" className="text-brand underline">模板库</a>」里的变量化模板。
               </p>
               <p className="text-xs text-muted">
-                💡 推荐从中文 Prompt 开始，GPT-Image-2 中文理解很好；想追求原汁原味再用英文原 Prompt。
+                💡 推荐从中文 Prompt 开始，{brandTerms.primaryModel} 中文理解很好；想追求原汁原味再用英文原 Prompt。
               </p>
             </div>
           </li>
@@ -75,10 +76,10 @@ export default function StartPage() {
             <div className="flex-1">
               <h3 className="font-bold text-ink mb-1">调 API，出图</h3>
               <p className="text-sm text-muted mb-2">
-                用 keys2api 提供的 API 端点，把 Prompt 发出去，几秒到 1 分钟内拿到图。可以选择：
+                用 {brandTerms.apiProviderName} 提供的 API 端点，把 Prompt 发出去，几秒到 1 分钟内拿到图。可以选择：
               </p>
               <ul className="text-sm text-muted list-disc pl-5 space-y-1">
-                <li>用 keys2api 控制台内置的「图片生成」工具（最简单，零代码）</li>
+                <li>用 {brandTerms.apiProviderName} 控制台内置的「图片生成」工具（最简单，零代码）</li>
                 <li>用 curl / Postman 调 API（适合熟悉命令行的）</li>
                 <li>用 Python / Node.js 脚本批量生成（适合做内容矩阵的）</li>
               </ul>
@@ -93,15 +94,15 @@ export default function StartPage() {
         <div className="space-y-4 text-sm">
           <div>
             <div className="font-medium text-ink mb-1">Q：为什么不直接用 ChatGPT？</div>
-            <p className="text-muted">ChatGPT 单月订阅 $20 起步且有限额。keys2api 按 token 计费，只为你实际生成的图付费（本站规格约 ¥1/张），做营销图批量产出更便宜。</p>
+            <p className="text-muted">ChatGPT 单月订阅 $20 起步且有限额。{brandTerms.apiProviderName} 按 token 计费，只为你实际生成的图付费（本站规格约 ¥1/张），做营销图批量产出更便宜。</p>
           </div>
           <div>
             <div className="font-medium text-ink mb-1">Q：我没有技术背景，能用吗？</div>
-            <p className="text-muted">能。keys2api 控制台有内置的「图片生成」工具，跟用 ChatGPT 一样填 Prompt 点按钮就出图，不用碰代码。</p>
+            <p className="text-muted">能。{brandTerms.apiProviderName} 控制台有内置的「图片生成」工具，跟用 ChatGPT 一样填 Prompt 点按钮就出图，不用碰代码。</p>
           </div>
           <div>
             <div className="font-medium text-ink mb-1">Q：案例里的图真的是 AI 生成的吗？</div>
-            <p className="text-muted">100% 是。研图社所有图片都由 GPT-Image-2 通过 keys2api API 自跑生成，无版权风险，你可以放心商用。</p>
+            <p className="text-muted">100% 是。研图社所有图片都由 {brandTerms.primaryModel} 通过 {brandTerms.apiProviderName} API 自跑生成，无版权风险，你可以放心商用。</p>
           </div>
           <div>
             <div className="font-medium text-ink mb-1">Q：用案例 Prompt 生成的图能商用吗？</div>
@@ -114,11 +115,11 @@ export default function StartPage() {
       <section className="bg-gradient-to-br from-brand-50 to-paper rounded-2xl p-8 text-center">
         <h2 className="text-xl font-bold text-ink mb-2">准备好开始了吗？</h2>
         <p className="text-sm text-muted mb-6">
-          注册 keys2api，10 分钟内跑出你的第一张 AI 营销图。
+          注册 {brandTerms.apiProviderName}，10 分钟内跑出你的第一张 AI 营销图。
         </p>
-        <CTAButton position="start-page" size="lg" href="keys2api">前往 keys2api 注册</CTAButton>
+        <CTAButton position="start-page" size="lg" href="register">前往 {brandTerms.apiProviderName} 注册</CTAButton>
         <p className="text-xs text-muted mt-4">
-          注册入口：<code>keys2api.com/register?ref=imglab</code>
+          注册入口：<code>{brandTerms.apiProviderRegisterUrl}</code>
         </p>
       </section>
     </div>

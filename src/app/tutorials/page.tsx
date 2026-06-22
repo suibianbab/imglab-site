@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getAllTutorials } from '@/lib/data';
+import { brandTerms } from '@/lib/brand';
 
 export const metadata: Metadata = {
   title: '教程',
-  description: 'GPT-Image-2 入门与中文营销场景实战教程。',
+  description: `${brandTerms.primaryModel} 入门与中文营销场景实战教程。`,
 };
 
 const categoryLabels = {

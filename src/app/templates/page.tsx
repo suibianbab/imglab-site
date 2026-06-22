@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import { getAllTemplates } from '@/lib/data';
 import { TemplateCard } from '@/components/templates/TemplateCard';
+import { brandTerms } from '@/lib/brand';
 
 export const metadata: Metadata = {
   title: 'Prompt 模板库',
-  description: '变量化的 GPT-Image-2 Prompt 模板，套上你的产品即可生成。',
+  description: `变量化的 ${brandTerms.primaryModel} Prompt 模板，套上你的产品即可生成。`,
 };
 
 export default function TemplatesPage() {

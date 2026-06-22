@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { CTAButton } from '@/components/cta/CTAButton';
+import { brandTerms } from '@/lib/brand';
 
 export function Footer() {
   return (
@@ -13,7 +14,7 @@ export function Footer() {
               <span className="font-bold">研图社 · ImgLab</span>
             </div>
             <p className="text-sm text-muted">
-              GPT-Image-2 中文营销图片生成案例库与模板库。所有图片 100% 自跑生成。
+              {brandTerms.primaryModel} 中文营销图片生成案例库与模板库。所有图片 100% 自跑生成。
             </p>
           </div>
           <div>
@@ -28,13 +29,13 @@ export function Footer() {
           <div>
             <div className="text-sm font-medium mb-3">开始创作</div>
             <p className="text-sm text-muted mb-3">
-              所有图片由 keys2api.com 提供 GPT-Image-2 API 生成。
+              所有图片由 {brandTerms.apiProviderDomain} 提供 {brandTerms.primaryModel} API 生成。
             </p>
             <CTAButton position="footer" size="sm">如何自己生成？</CTAButton>
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-ink/5 text-xs text-muted">
-          © {new Date().getFullYear()} 研图社 imglab.cn · 图片由 GPT-Image-2 生成
+          © {new Date().getFullYear()} 研图社 imglab.cn · 图片由 {brandTerms.primaryModel} 生成
         </div>
       </div>
     </footer>

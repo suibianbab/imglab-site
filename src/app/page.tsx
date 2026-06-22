@@ -3,6 +3,7 @@ import { getAllCases, getAllTemplates } from '@/lib/data';
 import { CaseCard } from '@/components/cases/CaseCard';
 import { TemplateCard } from '@/components/templates/TemplateCard';
 import { CTAButton } from '@/components/cta/CTAButton';
+import { brandTerms } from '@/lib/brand';
 
 const sceneEntries = [
   { scene: 'ecommerce', label: '电商主图', desc: '淘宝 / 京东 / 拼多多 详情页与主图', image: '/assets/evolinkai-006/v1.png' },
@@ -23,11 +24,11 @@ export default function HomePage() {
       <section className="bg-gradient-to-br from-brand-50 to-paper">
         <div className="container-page py-16 md:py-24 text-center">
           <h1 className="text-3xl md:text-5xl font-bold text-ink mb-4">
-            GPT-Image-2 中文营销<br />图片生成案例库
+            {brandTerms.primaryModel} 中文营销<br />图片生成案例库
           </h1>
           <p className="text-base md:text-lg text-muted mb-8 max-w-2xl mx-auto">
             精选电商主图、小红书、公众号封面、跨境 Listing 等场景的 AI 图片案例与 Prompt 模板。
-            所有图片 100% 由 GPT-Image-2 自跑生成，保留原 Prompt 思想。
+            所有图片 100% 由 {brandTerms.primaryModel} 自跑生成，保留原 Prompt 思想。
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <CTAButton position="hero" size="lg">如何自己生成？</CTAButton>
@@ -46,7 +47,7 @@ export default function HomePage() {
         <div className="flex items-end justify-between mb-8">
           <div>
             <h2 className="text-2xl font-bold text-ink">精选案例</h2>
-            <p className="text-sm text-muted mt-1">真实场景的 GPT-Image-2 生成图与原 Prompt</p>
+            <p className="text-sm text-muted mt-1">真实场景的 {brandTerms.primaryModel} 生成图与原 Prompt</p>
           </div>
           <Link href="/cases/" className="text-sm text-brand">查看全部 →</Link>
         </div>

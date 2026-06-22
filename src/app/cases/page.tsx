@@ -2,10 +2,11 @@ import { Suspense } from 'react';
 import type { Metadata } from 'next';
 import { getAllCases } from '@/lib/data';
 import { CaseFilter } from '@/components/cases/CaseFilter';
+import { brandTerms } from '@/lib/brand';
 
 export const metadata: Metadata = {
   title: '精选案例库',
-  description: '浏览 GPT-Image-2 生成的电商主图、小红书、公众号封面、跨境 Listing 等场景的精选案例。',
+  description: `浏览 ${brandTerms.primaryModel} 生成的电商主图、小红书、公众号封面、跨境 Listing 等场景的精选案例。`,
 };
 
 export default function CasesPage() {
