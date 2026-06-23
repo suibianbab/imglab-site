@@ -15,7 +15,6 @@ const sceneEntries = [
 export default function HomePage() {
   const cases = getAllCases();
   const featured = cases.slice(0, 8);
-  const rest = cases.slice(8);
   const templates = getAllTemplates().slice(0, 6);
 
   return (
@@ -56,13 +55,6 @@ export default function HomePage() {
             <CaseCard key={c.slug} caseData={c} />
           ))}
         </div>
-        {rest.length > 0 && (
-          <div className="mt-8 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-            {rest.map((c) => (
-              <CaseCard key={c.slug} caseData={c} />
-            ))}
-          </div>
-        )}
       </section>
 
       {/* 场景分类入口 */}
