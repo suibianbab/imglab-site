@@ -4,6 +4,13 @@ import { CaseCard } from '@/components/cases/CaseCard';
 import { TemplateCard } from '@/components/templates/TemplateCard';
 import { CTAButton } from '@/components/cta/CTAButton';
 import { brandTerms } from '@/lib/brand';
+import { promptPages } from '@/lib/prompt-pages';
+
+const platformCards = [
+  { slug: 'gpt-image-2-for-amazon', label: 'Amazon', desc: '主图副图 + A+ 内容图', emoji: '🛒' },
+  { slug: 'gpt-image-2-for-tiktok-ads', label: 'TikTok Ads', desc: '9:16 竖版高转化素材', emoji: '🎬' },
+  { slug: 'gpt-image-2-for-shopify', label: 'Shopify', desc: 'Hero Banner + 品牌视觉系统', emoji: '🛍️' },
+] as const;
 
 const sceneEntries = [
   { scene: 'ecommerce', label: '电商主图', desc: '淘宝 / 京东 / 拼多多 详情页与主图', image: '/assets/evolinkai-006/v1.png' },
@@ -82,6 +89,33 @@ export default function HomePage() {
               </Link>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* 平台专用 Prompt 入口（SEO 着陆页矩阵） */}
+      <section className="container-page py-16">
+        <div className="text-center mb-8">
+          <h2 className="text-2xl font-bold text-ink mb-2">按平台专用 Prompt 配方</h2>
+          <p className="text-sm text-muted">跨境卖家高频场景的深度指南 + 真实案例</p>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {platformCards.map((card) => {
+            const page = promptPages.find((p) => p.slug === card.slug);
+            return (
+              <Link
+                key={card.slug}
+                href={`/prompts/${card.slug}/`}
+                className="block bg-white rounded-2xl p-6 border border-ink/5 hover:border-brand hover:shadow-md transition group"
+              >
+                <div className="text-3xl mb-3">{card.emoji}</div>
+                <div className="font-bold text-ink mb-1 group-hover:text-brand">{card.label}</div>
+                <div className="text-sm text-muted mb-3">{card.desc}</div>
+                <div className="text-xs text-brand">
+                  {page?.caseIds.length ?? 0} 个真实案例 →
+                </div>
+              </Link>
+            );
+          })}
         </div>
       </section>
 

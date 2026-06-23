@@ -22,6 +22,7 @@ export function Footer() {
             <ul className="space-y-2 text-sm text-muted">
               <li><Link href="/cases/">精选案例</Link></li>
               <li><Link href="/templates/">Prompt 模板</Link></li>
+              <li><Link href="/prompts/">平台专用 Prompt 配方</Link></li>
               <li><Link href="/tutorials/">教程</Link></li>
               <li><Link href="/start/">如何自己生成</Link></li>
             </ul>

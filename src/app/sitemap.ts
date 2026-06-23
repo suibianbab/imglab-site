@@ -13,6 +13,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/cases/`, lastModified: now, changeFrequency: 'weekly', priority: 0.9 },
     { url: `${SITE_URL}/templates/`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
     { url: `${SITE_URL}/tutorials/`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${SITE_URL}/prompts/`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${SITE_URL}/prompts/gpt-image-2-for-amazon/`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${SITE_URL}/prompts/gpt-image-2-for-tiktok-ads/`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${SITE_URL}/prompts/gpt-image-2-for-shopify/`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
   ];
 
   const casePages: MetadataRoute.Sitemap = getAllCases().map((c) => ({

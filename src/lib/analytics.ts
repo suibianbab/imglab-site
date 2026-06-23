@@ -8,7 +8,8 @@ export type CTAPosition =
   | 'tutorial-end'
   | 'nav'
   | 'footer'
-  | 'start-page';
+  | 'start-page'
+  | 'prompt-page';
 
 interface GtagWindow extends Window {
   gtag?: (command: string, eventName: string, params?: Record<string, unknown>) => void;

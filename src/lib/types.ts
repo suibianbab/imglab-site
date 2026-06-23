@@ -44,3 +44,18 @@ export interface CaseFilter {
   style?: Style | 'all';
   tag?: string | 'all';
 }
+
+/**
+ * SEO 着陆页（按平台/场景聚合，吃 Google 长尾搜索）
+ * 主体 JSX 内容直接写在各 page.tsx 里，这里只放共享元数据
+ */
+export interface PromptPage {
+  slug: string;                // 路由 slug，如 'gpt-image-2-for-amazon'
+  platform: 'amazon' | 'tiktok-ads' | 'shopify';
+  h1: string;                  // 页面 H1
+  metaTitle: string;           // < 60 字符
+  metaDescription: string;     // < 160 字符
+  heroPain: string;            // Hero 副标题（痛点句）
+  caseIds: string[];           // 关联的 Case slug
+  faqs: { q: string; a: string }[];  // FAQPage schema
+}
