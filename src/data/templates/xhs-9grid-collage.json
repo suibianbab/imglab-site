@@ -1,0 +1,9 @@
+{
+  "slug": "xhs-9grid-collage",
+  "title": "小红书九宫格拼图封面",
+  "scene": "xhs",
+  "preview_image": "/assets/evolinkai-068/v1.png",
+  "prompt_template": "A 3x3 grid collage layout for Xiaohongshu cover, 3:4 vertical format. The center cell (position 5) is the largest and shows the main {main_subject}. The 8 surrounding cells show 8 different detail shots of {main_subject} from various angles (close-up, wide, in-context, top-down, side, 45-degree, back, action shot). Each cell has 4px white border separators. Top center cell overlay: large bold Chinese headline \"{headline_text}\". Cohesive color grade across all 9 cells ({color_palette}), lifestyle photography style, 1024x1024.",
+  "variables": ["main_subject", "headline_text", "color_palette"],
+  "published_at": "2026-06-23"
+}

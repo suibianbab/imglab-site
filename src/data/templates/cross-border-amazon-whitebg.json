@@ -1,0 +1,9 @@
+{
+  "slug": "cross-border-amazon-whitebg",
+  "title": "Amazon 白底主图（合规）",
+  "scene": "cross-border",
+  "preview_image": "/assets/evolinkai-022/v1.png",
+  "prompt_template": "A single {product_name} centered on a pure white background (RGB 255/255/255, mandatory for Amazon main image), product filling 85% of the frame, no text no logos no watermarks no insets no props (Amazon compliance), sharp focus on product details, soft even studio lighting from top-front, subtle contact shadow beneath the product for realism, color-accurate product photography, professional e-commerce main image, 1024x1024.",
+  "variables": ["product_name"],
+  "published_at": "2026-06-23"
+}

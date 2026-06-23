@@ -1,0 +1,9 @@
+{
+  "slug": "wechat-story-header",
+  "title": "公众号故事感头图",
+  "scene": "wechat",
+  "preview_image": "/assets/evolinkai-001/v1.png",
+  "prompt_template": "A cinematic WeChat article header image with strong storytelling mood, 16:9 horizontal (1792x1024). Scene: {scene_description} capturing an authentic moment with emotional weight. Cinematic color grade grounded in ({color_palette_hex_codes}). Directional warm light from one side creating dramatic contrast. Shallow depth of field with subject in sharp focus, background softly blurred. Top-left corner: small white text overlay \"{headline_text}\" in clean sans-serif. Style: documentary / editorial photography, magazine quality, story-driven, 1792x1024.",
+  "variables": ["scene_description", "color_palette_hex_codes", "headline_text"],
+  "published_at": "2026-06-23"
+}

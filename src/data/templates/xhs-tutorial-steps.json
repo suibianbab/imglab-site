@@ -1,0 +1,9 @@
+{
+  "slug": "xhs-tutorial-steps",
+  "title": "小红书教程步骤图",
+  "scene": "xhs",
+  "preview_image": "/assets/evolinkai-043/v1.png",
+  "prompt_template": "An infographic-style tutorial cover for Xiaohongshu, 3:4 vertical format. Title at top: \"{tutorial_title}\" in bold sans-serif. Below the title: {step_count} numbered circular badges (1, 2, 3, 4, 5) arranged vertically, each badge containing a small icon representing the step ({step_icons}). To the right of each badge: a short step description in clean Chinese typography. Background: soft cream color (#FDF8F0) with subtle decorative elements. Style: minimal, modern, easy to scan, educational infographic aesthetic, 1024x1024.",
+  "variables": ["tutorial_title", "step_count", "step_icons"],
+  "published_at": "2026-06-23"
+}

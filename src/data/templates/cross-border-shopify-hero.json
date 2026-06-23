@@ -1,0 +1,9 @@
+{
+  "slug": "cross-border-shopify-hero",
+  "title": "Shopify 首页 Hero Banner",
+  "scene": "cross-border",
+  "preview_image": "/assets/evolinkai-024/v1.png",
+  "prompt_template": "A cinematic brand hero banner for {brand_name}, horizontal 16:9 composition (1792x1024). Center: {hero_product} on a {background_texture} surface (marble / concrete / wood) with dramatic side lighting. Background: oversized cropped typography bleeding off-frame in {brand_color_hex} with embossed texture. Foreground: subtle fog and sparkle elements. Style: high-end fashion magazine, Apple commercial aesthetic, sharp focus on product, shallow depth of field on background, premium independent-brand website hero image, 1792x1024.",
+  "variables": ["brand_name", "hero_product", "background_texture", "brand_color_hex"],
+  "published_at": "2026-06-23"
+}

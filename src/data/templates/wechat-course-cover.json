@@ -1,0 +1,9 @@
+{
+  "slug": "wechat-course-cover",
+  "title": "知识付费课程封面",
+  "scene": "wechat",
+  "preview_image": "/assets/evolinkai-028/v1.png",
+  "prompt_template": "A premium online course cover image for knowledge product, 3:4 vertical format (1024x1024 square or 1024x1536 vertical). Center-top: massive bold serif Chinese title \"{course_title}\" in {accent_color_hex}. Below the title: thin horizontal divider line in gold. Center: {main_visual_description} (instructor portrait, abstract icon, or hero product). Bottom: small uppercase English tagline \"{english_tagline}\" + author byline \"{author_name}\". Background: dark moody color ({dark_background_hex}) with subtle texture. Style: authoritative, premium, masterclass-quality course aesthetic, 1024x1024.",
+  "variables": ["course_title", "accent_color_hex", "main_visual_description", "english_tagline", "author_name", "dark_background_hex"],
+  "published_at": "2026-06-23"
+}

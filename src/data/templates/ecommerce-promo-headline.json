@@ -1,0 +1,9 @@
+{
+  "slug": "ecommerce-promo-headline",
+  "title": "电商促销大字报主图",
+  "scene": "ecommerce",
+  "preview_image": "/assets/evolinkai-206/v1.png",
+  "prompt_template": "A bold promotional e-commerce main image for {product_name}. Top section: massive condensed bold sans-serif headline reading \"{promo_headline}\" in {accent_color_hex} on a high-contrast background. Center: {product_name} with dramatic studio lighting and subtle glow effect. Bottom strip: 3 short benefit tags ({benefit_1} / {benefit_2} / {benefit_3}) in pill-shaped badges. Style: high-energy direct response advertising, vibrant saturated colors, sharp readable typography, premium e-commerce listing aesthetic, 1024x1024.",
+  "variables": ["product_name", "promo_headline", "accent_color_hex", "benefit_1", "benefit_2", "benefit_3"],
+  "published_at": "2026-06-23"
+}

@@ -1,0 +1,9 @@
+{
+  "slug": "wechat-listicle-header",
+  "title": "公众号干货列表头图",
+  "scene": "wechat",
+  "preview_image": "/assets/evolinkai-238/v1.png",
+  "prompt_template": "A WeChat official account header image for a listicle article, 16:9 horizontal format (1792x1024). Title at center: \"{headline_text}\" in bold sans-serif Chinese typography, dark gray (#1F1F2E). Below the title: a row of {item_count} small numbered circular badges (1, 2, ... {item_count}). Background: soft cream or light gray (#F7F7FA) with subtle geometric pattern. Left and right edges: minimalist decorative elements. Style: clean educational infographic, easy to scan, premium content creator aesthetic, 1792x1024.",
+  "variables": ["headline_text", "item_count"],
+  "published_at": "2026-06-23"
+}

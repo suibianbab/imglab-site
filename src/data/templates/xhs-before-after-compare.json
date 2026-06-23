@@ -1,0 +1,9 @@
+{
+  "slug": "xhs-before-after-compare",
+  "title": "小红书 before/after 对比图",
+  "scene": "xhs",
+  "preview_image": "/assets/evolinkai-042/v1.png",
+  "prompt_template": "A before/after comparison Xiaohongshu cover, 3:4 vertical format split into two equal halves by a thin vertical white divider line. Left half labeled \"BEFORE\" in small uppercase gray text at top-left corner, showing {before_description}. Right half labeled \"AFTER\" in small uppercase {accent_color_hex} text at top-right corner, showing {after_description}. Center dividing line has a small arrow icon pointing right. Bottom strip: bold Chinese headline \"{headline_text}\" in sans-serif. Style: clean direct comparison, lifestyle photography, RED app aesthetic, 1024x1024.",
+  "variables": ["before_description", "after_description", "accent_color_hex", "headline_text"],
+  "published_at": "2026-06-23"
+}

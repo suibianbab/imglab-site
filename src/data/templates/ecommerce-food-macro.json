@@ -1,0 +1,9 @@
+{
+  "slug": "ecommerce-food-macro",
+  "title": "美食微距特写主图",
+  "scene": "ecommerce",
+  "preview_image": "/assets/evolinkai-003/v1.png",
+  "prompt_template": "An ultra-close macro shot of {food_name}, shot with 100mm macro lens at f/4 for shallow depth of field. Steam rising from the food, glistening oil texture, scattered fresh ingredients ({specific_ingredients}) around the main subject, dark moody background (deep charcoal #1A1A1A), directional warm side light from the left creating dramatic highlights on the food surface, water droplets on the surface for freshness, professional food photography for premium e-commerce listing, hyper-detailed texture, 1024x1024.",
+  "variables": ["food_name", "specific_ingredients"],
+  "published_at": "2026-06-23"
+}
