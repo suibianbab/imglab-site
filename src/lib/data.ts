@@ -91,6 +91,14 @@ export function getRelatedTemplates(slugs: string[]): Template[] {
     .filter((t): t is Template => t !== null);
 }
 
+// 按 scene 自动匹配模板（用于 case.related_templates 为空时的兜底推荐）
+// 让懒得抄 prompt 的用户直接用填空模板
+export function getTemplatesByScene(scene: string, limit = 3): Template[] {
+  return loadTemplates()
+    .filter((t) => t.scene === scene)
+    .slice(0, limit);
+}
+
 // 聚合选项（给筛选器 UI）
 export function getSceneOptions(): { value: Scene | 'all'; label: string }[] {
   return [

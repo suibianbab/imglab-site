@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-import { getAllCases, getCaseBySlug, getRelatedTemplates } from '@/lib/data';
+import { getAllCases, getCaseBySlug, getRelatedTemplates, getTemplatesByScene } from '@/lib/data';
 import { caseJsonLd } from '@/lib/seo';
 import { Tag } from '@/components/ui/Tag';
 import { CTAButton } from '@/components/cta/CTAButton';
@@ -36,7 +36,10 @@ export default async function CaseDetailPage({ params }: PageProps) {
   const caseData = getCaseBySlug(slug);
   if (!caseData) notFound();
 
-  const related = getRelatedTemplates(caseData.related_templates);
+  // 优先用 case 显式声明的 related_templates；为空时按 scene 兜底匹配
+  const related = caseData.related_templates.length > 0
+    ? getRelatedTemplates(caseData.related_templates)
+    : getTemplatesByScene(caseData.scene, 3);
 
   return (
     <article className="container-page py-12">
@@ -81,7 +84,13 @@ export default async function CaseDetailPage({ params }: PageProps) {
 
       {related.length > 0 && (
         <section>
-          <h2 className="text-xl font-bold text-ink mb-4">相关模板</h2>
+          <div className="flex items-baseline justify-between mb-4">
+            <h2 className="text-xl font-bold text-ink">懒得抄 prompt？这些填空模板直接用</h2>
+            <a href="/templates" className="text-sm text-brand hover:underline">全部 {related.length} 个 →</a>
+          </div>
+          <p className="text-sm text-muted mb-4">
+            把 <code className="bg-paper px-1.5 py-0.5 rounded text-xs">{`{变量}`}</code> 换成你的产品 / 文案，复制即用，无需懂 prompt 工程。
+          </p>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
             {related.map((t) => <TemplateCard key={t.slug} template={t} />)}
           </div>
