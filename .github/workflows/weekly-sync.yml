@@ -1,0 +1,100 @@
+name: weekly-sync
+on:
+  schedule:
+    # UTC 周日 22:00 = 北京 周一 06:00（weekly-publish 在 UTC 16:00 开始，通常 60-90 分钟跑完，6 小时缓冲）
+    - cron: "0 22 * * 0"
+  workflow_dispatch: {}   # 手动触发（验证 / 紧急同步）
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      # 检出两个 repo 到平级目录，匹配 sync-from-pipeline.mjs 的 ../repo 路径假设
+      - name: Checkout site repo
+        uses: actions/checkout@v4
+        with:
+          path: site
+
+      - name: Checkout pipeline repo
+        uses: actions/checkout@v4
+        with:
+          repository: suibianbab/awesome-ai-image-marketing-templates
+          path: repo
+          # 公开 repo 默认 GITHUB_TOKEN 可读；私有需 PAT
+          # token: ${{ secrets.CROSS_REPO_PAT }}  # 取消注释如果 repo 改私有
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install site deps
+        working-directory: site
+        run: npm ci
+
+      - name: Sync landing-data JSON
+        working-directory: site
+        run: npm run sync:data
+
+      - name: Sync new image folders
+        run: |
+          NEW_COUNT=0
+          for case_dir in repo/assets/evolinkai-*/; do
+            [ -d "$case_dir" ] || continue
+            case_id=$(basename "$case_dir")
+            if [ ! -d "site/public/assets/$case_id" ]; then
+              mkdir -p "site/public/assets/$case_id"
+              cp -r "$case_dir"* "site/public/assets/$case_id/"
+              echo "新增图片目录: $case_id"
+              NEW_COUNT=$((NEW_COUNT + 1))
+            fi
+          done
+          echo "新增图片目录数: $NEW_COUNT"
+          echo "new_image_dirs=$NEW_COUNT" >> $GITHUB_ENV
+
+      - name: Verify build
+        working-directory: site
+        run: npm run build
+
+      - name: Detect changes
+        id: changes
+        working-directory: site
+        run: |
+          git add src/data/cases/ public/assets/
+          if git diff --staged --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "无变更，跳过 commit"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            CHANGED_CASES=$(git diff --staged --name-only src/data/cases/ | grep -c '^src/data/cases/evolinkai')
+            echo "changed_cases=$CHANGED_CASES" >> $GITHUB_OUTPUT
+            echo "变更 case JSON 数: $CHANGED_CASES"
+          fi
+
+      - name: Commit + push
+        if: steps.changes.outputs.changed == 'true'
+        working-directory: site
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "feat(cases): weekly sync $(date -u +%Y-%m-%d)
+
+          同步 ${NEW_COUNT:-0} 个新图片目录 + ${CHANGED_CASES:-0} 个 case JSON
+          来自 awesome-ai-image-marketing-templates weekly-publish
+
+          Co-Authored-By: github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          git push
+
+      - name: Workflow summary
+        if: always()
+        working-directory: site
+        run: |
+          echo "## 📊 Weekly Sync Report" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- 新增图片目录: ${NEW_COUNT:-0}" >> $GITHUB_STEP_SUMMARY
+          echo "- 变更 case JSON: ${CHANGED_CASES:-0}" >> $GITHUB_STEP_SUMMARY
+          echo "- 状态: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "EdgeOne Pages 会监听 push 自动部署。" >> $GITHUB_STEP_SUMMARY
