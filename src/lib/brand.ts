@@ -30,6 +30,6 @@ export const brandTerms = {
 
   /** 站点定位短语（首页 Hero / SEO description 用） */
   siteTagline: IS_ICP_MODE
-    ? 'AI 中文营销图片生成案例库'
-    : 'GPT-Image-2 中文营销图片生成案例库',
+    ? 'AI 图片生成实战案例库'
+    : 'GPT-Image-2 实战案例库',
 } as const;

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     template: '%s | 研图社',
   },
   description:
-    `研图社精选 ${brandTerms.primaryModel} 营销图片案例与 prompt 模板，覆盖电商主图、小红书、公众号封面、跨境 Listing 等中文营销场景。`,
+    `研图社精选 ${brandTerms.primaryModel} 实战案例与 prompt 模板，覆盖电商主图、跨境 Listing、小红书、公众号、品牌视觉等应用场景。`,
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? 'https://imglab.cn'),
   openGraph: {
     type: 'website',

@@ -30,11 +30,11 @@ export default function HomePage() {
       <section className="bg-gradient-to-br from-brand-50 to-paper">
         <div className="container-page py-16 md:py-24 text-center">
           <h1 className="text-3xl md:text-5xl font-bold text-ink mb-4">
-            {brandTerms.primaryModel} 中文营销<br />图片生成案例库
+            {brandTerms.primaryModel}<br />实战案例库 + Prompt 模板
           </h1>
           <p className="text-base md:text-lg text-muted mb-8 max-w-2xl mx-auto">
-            精选电商主图、小红书、公众号封面、跨境 Listing 等场景的 AI 图片案例与 Prompt 模板。
-            所有图片 100% 由 {brandTerms.primaryModel} 自跑生成，保留原 Prompt 思想。
+            精选电商主图、跨境 Listing、小红书、公众号、品牌视觉、自媒体配图等场景的 AI 图片案例与 Prompt。
+            所有图片 100% 由 {brandTerms.primaryModel} 自跑生成，实测可复现。
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <CTAButton position="hero" size="lg">如何自己生成？</CTAButton>

@@ -5,7 +5,7 @@ import { brandTerms } from '@/lib/brand';
 
 export const metadata: Metadata = {
   title: '教程',
-  description: `${brandTerms.primaryModel} 入门与中文营销场景实战教程。`,
+  description: `${brandTerms.primaryModel} 入门与实战场景教程。`,
 };
 
 const categoryLabels = {

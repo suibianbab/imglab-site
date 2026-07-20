@@ -14,7 +14,7 @@ export function Footer() {
               <span className="font-bold">研图社 · ImgLab</span>
             </div>
             <p className="text-sm text-muted">
-              {brandTerms.primaryModel} 中文营销图片生成案例库与模板库。所有图片 100% 自跑生成。
+              {brandTerms.primaryModel} 实战案例库与 Prompt 模板。所有图片 100% 自跑生成。
             </p>
           </div>
           <div>

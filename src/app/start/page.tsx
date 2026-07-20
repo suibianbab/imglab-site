@@ -27,7 +27,7 @@ export default function StartPage() {
           <div className="bg-white rounded-xl p-4">
             <div className="font-medium text-ink mb-1">研图社 · imglab.cn</div>
             <p className="text-muted">
-              你现在所在的网站。AI 图片营销案例库，负责展示真实案例 + Prompt 模板，教你怎么写出能卖货的图。
+              你现在所在的网站。AI 图片实战案例库，负责展示真实案例 + Prompt 模板，教你怎么写出能跑通的图。
             </p>
           </div>
           <div className="bg-white rounded-xl p-4">
