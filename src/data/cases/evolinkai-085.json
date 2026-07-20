@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-085",
+  "title": "这条 prompt 好在它详细地描述了如何将真实照片转化为具有特定风格（Q版）的艺术作品，同时保留关键特征，适用于需要个性化且不失真实感的中文营销场景，如社交媒体推广或个人品牌打造。",
+  "scene": "xhs",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-085/v1.png",
+  "image_alt": "这条 prompt 好在它详细地描述了如何将真实照片转化为具有特定风格（Q版）的艺术作品，同时保留关键特征，适用于需要个性化且不失真实感的中文营销场景，如社交媒体推广或个人品牌打造。",
+  "prompt_original": "Create a high-quality “chibi sticker diary portrait” based on the uploaded real-life photo. Preserve the subject’s original identity, realistic facial structure, hairstyle, hair color, glasses, outfit, pose, proportions, lighting, and background. Keep the main subject photorealistic and do not transform the entire image into a full illustration.",
+  "prompt_zh": "根据上传的真实照片，创建一个高质量的“Q版贴纸日记肖像”。保留主体的原始身份、真实的面部结构、发型、发色、眼镜、服装、姿势、比例、光线和背景。保持主要主体的照片真实感，不要将整个图像完全转换为插图。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-20"
+}

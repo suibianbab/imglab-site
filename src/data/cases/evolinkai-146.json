@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-146",
+  "title": "这条 prompt 好在通过详细的描述，能够生成具有强烈历史感的老照片，适合用于需要复古氛围的中文营销场景，如历史题材的电影宣传、复古主题的品牌活动等。",
+  "scene": "xhs",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-146/v1.png",
+  "image_alt": "这条 prompt 好在通过详细的描述，能够生成具有强烈历史感的老照片，适合用于需要复古氛围的中文营销场景，如历史题材的电影宣传、复古主题的品牌活动等。",
+  "prompt_original": "Non Existence Vintage Photographs with GPT Image 2 📸\n\n- Prompt 👇\na photographic image in the style of 1870, [SCENE DESCRIPTION], with [CHARACTERS described in period accurate clothing], [Describe the interaction].\n\nThe photo has an aged and worn appearance, as it was taken in 1870. It features prominent time-induced chemical stains, heavy grain, sepia toning, and deep scratches.\n\nSignificantly reduce the sharpness so that the details of the [SUBJECT] are not crisp, making the [SUBJECT] blurry and low-fidelity.\n\nGreatly increase the wear of the photo, including small tears, missing corners, water damage, and small wormholes caused by insect damage. Add a prominent, jagged diagonal cut across the photo, mended clumsily with old, discolored tape.",
+  "prompt_zh": "一张1870年风格的照片，[场景描述]，穿着符合时代特征的[人物描述]，[描述互动]。照片呈现出老旧和磨损的外观，仿佛是在1870年拍摄的，具有明显的时间引起的化学污渍、厚重的颗粒感、棕褐色调和深划痕。显著降低清晰度，使[主体]的细节不那么清晰，让[主体]模糊且低分辨率。大幅增加照片的磨损程度，包括小撕裂、缺失的角落、水损和由虫害引起的小虫洞。在照片上添加一条明显的锯齿状对角线切割，并用旧的、变色的胶带笨拙地修补。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-20"
+}
