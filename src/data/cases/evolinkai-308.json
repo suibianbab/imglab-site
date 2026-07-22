@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-308",
+  "title": "这条 prompt 详细描述了如何制作一个高质量且具有吸引力的角色介绍页面，适合用于游戏或动漫相关的中文营销场景，能够吸引目标受众的注意力。",
+  "scene": "xhs",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-308/v1.png",
+  "image_alt": "这条 prompt 详细描述了如何制作一个高质量且具有吸引力的角色介绍页面，适合用于游戏或动漫相关的中文营销场景，能够吸引目标受众的注意力。",
+  "prompt_original": "Create a high-quality character introduction page using a chibi illustration and a full standing character artwork, styled like an official visual novel (gal-game) character profile page. It should look realistic enough to use on an actual game website. Include CG-style illustrations, facial expression variants, and a chibi version of the character.\n\n\"Self-introduction here\"\n\nName: (name here)\nTheme color: (color here)\nHeight: (height here) cm\nWeight: (weight here) kg\nCatchphrase: \"(line here)\"",
+  "prompt_zh": "使用Q版插画和全站立角色插画，创建一个高质量的角色介绍页面，风格类似于官方视觉小说（gal-game）中的角色档案页。页面应足够真实，可以用于实际的游戏网站。包括CG风格的插图、不同表情变体以及角色的Q版形象。\\",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-21"
+}

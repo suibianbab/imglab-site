@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-205",
+  "title": "这条 prompt 通过将科学概念以视觉化的方式呈现，使文字本身成为一种艺术表达。它适合用于科普教育、科学研究成果展示等中文营销场景，能够吸引对科学感兴趣的受众，并且具有很高的视觉冲击力。",
+  "scene": "wechat",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-205/v1.png",
+  "image_alt": "这条 prompt 通过将科学概念以视觉化的方式呈现，使文字本身成为一种艺术表达。它适合用于科普教育、科学研究成果展示等中文营销场景，能够吸引对科学感兴趣的受众，并且具有很高的视觉冲击力。",
+  "prompt_original": "Anchor: The word \"[SCIENTIFIC CONCEPT (e.g.,  CARBON / DNA / GRAVITY)]\" :: where each  letter is constructed from the molecular  structure, atomic bonds, or physical  diagrams associated with that concept ::4  Morphology: DNA — letters formed from  double helix ladder rungs and backbone  curves. CARBON — letters built from  benzene ring hexagons and bond lines.  GRAVITY — letters curve and stretch  as if pulled toward a point mass,  lower strokes elongated by gravitational  lensing. All fully readable ::3  Material Physics: Scientific whiteboard  aesthetic — white chalk or marker on  dark ground. Or blueprint blue with  white diagrammatic linework ::3  Illumination: Flat, even, academic —  as if projected on a lecture screen ::2  Render Stack: Science magazine cover,  university poster, Ted Talk title card ::1  Negative: [photorealistic molecular  renders, 3D shading, color-coded  atoms in standard CPK colors,  realistic laboratory imagery] :: -1",
+  "prompt_zh": "锚点：单词“[科学概念（例如，碳/ DNA / 重力）]”:: 每个字母由与该概念相关的分子结构、原子键或物理图构建 ::4 形态：DNA — 字母由双螺旋梯子横档和骨架曲线构成。碳 — 字母由苯环六边形和键线构成。重力 — 字母弯曲并拉伸，仿佛被拉向一个质点，下划线由于引力透镜效应而延长。所有字母完全可读 ::3 材料物理：科学白板美学 — 黑色背景上的白色粉笔或标记。或蓝图蓝色配白色图表线条 ::3 照明：平坦、均匀、学术性 — 仿佛投射在讲台屏幕上 ::2 渲染堆栈：科学杂志封面、大学海报、TED演讲标题卡 ::1 负面：[逼真的分子渲染、3D阴影、标准CPK颜色编码的原子、真实的实验室图像] :: -1",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-21"
+}

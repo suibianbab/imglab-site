@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-210",
+  "title": "这条 prompt 详细描述了如何将一个角色转化为可爱的3D大头小身形象，并设计与其个性和氛围相匹配的新服装。适合用于中文营销场景中，特别是针对年轻女性群体的时尚品牌推广或社交媒体内容创作。",
+  "scene": "wechat",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-210/v1.png",
+  "image_alt": "这条 prompt 详细描述了如何将一个角色转化为可爱的3D大头小身形象，并设计与其个性和氛围相匹配的新服装。适合用于中文营销场景中，特别是针对年轻女性群体的时尚品牌推广或社交媒体内容创作。",
+  "prompt_original": "Create a fashion infographic based on the reference image. Use the reference image mainly to understand the character’s identity, hairstyle, facial features, color impression, personality, and overall mood.\n\nTransform the character into a polished 3D chibi character with a large head, small body, expressive eyes, and soft cute proportions. Keep the character’s recognizable features, such as hairstyle, hair color, eye color, facial impression, and overall aura, while designing a new original outfit that naturally suits the character’s atmosphere.\n\nDo not simply copy the clothing from the reference image. Instead, create a coordinated fashion style that feels appropriate for this character’s personality, color palette, and visual mood. The outfit may include thoughtfully chosen clothing, shoes, accessories, textures, and silhouettes that enhance the character’s charm.\n\nShow a full-body main pose in the center, surrounded by editorial callouts: outfit concept, clothing item breakdown, fabric texture swatches, styling points, accessory close-ups, color palette, and a small pose guide. Use a clean white background, soft lighting, premium lookbook layout, ultra-detailed 3D rendering, stylish fashion editorial design, cute but refined.",
+  "prompt_zh": "基于参考图像创建一个时尚信息图。主要使用参考图像来理解角色的身份、发型、面部特征、色彩印象、个性和整体氛围。将角色转化为一个精致的3D大头小身的角色，具有大头、小身体、表情丰富的眼睛和可爱的柔和比例。保留角色的可识别特征，如发型、发色、眼睛颜色、面部印象和整体气质，同时设计一套新的原创服装，使其自然适合角色的氛围。不要简单地复制参考图像中的服装。而是创造一种与该角色的个性、色彩调色板和视觉氛围相匹配的协调时尚风格。服装可以包括精心挑选的衣服、鞋子、配饰、纹理和轮廓，以增强角色的魅力。在中心展示一个全身的主要姿势，并围绕其添加编辑注释：服装概念、服装单品分解、面料纹理样本、造型要点、配饰特写、色彩调色板和一个小姿势指南。使用干净的白色背景、柔和的照明、高级的lookbook布局、超详细的3D渲染、时尚的编辑设计，可爱但精致。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-21"
+}

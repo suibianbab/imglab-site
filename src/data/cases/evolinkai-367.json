@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-367",
+  "title": "这条 prompt 适合用于中文营销场景中的高端餐饮推广，特别是针对追求高品质和传统工艺的消费者。通过精准的故事板设计，可以有效传达品牌的专业性和对细节的关注。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-367/v1.png",
+  "image_alt": "这条 prompt 适合用于中文营销场景中的高端餐饮推广，特别是针对追求高品质和传统工艺的消费者。通过精准的故事板设计，可以有效传达品牌的专业性和对细节的关注。",
+  "prompt_original": "Create a professional anime production storyboard sheet for a **15-second cooking animation featuring authentic Edo-style Sushi (江戸前寿司 / 握り寿司)**.\n\nThe cooking process should accurately reflect professional Tokyo high-end sushi restaurant techniques while delivering elegant anime-style food presentation and a **calm early summer atmosphere in a refined Tokyo sushi counter setting (初夏・静謐な高級寿司店の空気感)**.\n\nThe storyboard should depict the complete preparation process of **maguro (tuna), toro (fatty tuna), and unagi (eel)** sushi while maintaining strict visual continuity across all panels.\n\n---\n\n# Workflow Adaptation Rule\n\nBefore creating the storyboard:\n\n1. Follow authentic Edo-mae sushi counter workflow\n2. Separate fish preparation, rice shaping, and nigiri assembly stages\n3. Emphasize craftsmanship and hand technique\n4. Highlight maguro, toro, and unagi equally\n5. Build toward final plated sushi as the hero composition\n6. Maintain strict continuity of counter, lighting, and tools\n\n---\n\n# Realism and Culinary Accuracy Rules\n\nPrioritize authentic sushi craftsmanship:\n\n* Precise slicing of maguro and toro\n* Hand-formed sushi rice (shari)\n* Clean, minimal unagi handling\n* Realistic weight, pressure, and texture of food\n\nAvoid all exaggerated or stylized effects.\n\n---\n\n## Ingredient Preparation Rules\n\n* Maguro: clean block slicing into uniform nigiri portions\n* Toro: delicate slicing emphasizing marbling texture\n* Unagi: already grilled kabayaki, cut into sushi topping size\n\n---\n\n## Unagi Correct Technique Rule (FINAL)\n\nFor unagi nigiri:\n\n* Grilled eel (kabayaki) is placed on top of hand-formed sushi rice\n* After the nigiri is fully formed, the chef applies tare sauce **using a brush directly on the surface of the eel**\n* Brush movement is slow, precise, and minimal\n* No pre-dipping in sauce\n* No cutting during final assembly\n* Focus on glossy finish and craftsmanship, not drama\n\n---\n\n## Liquid Realism Rules\n\n* Sauce is applied as a thin controlled glaze via brush\n* No drip",
+  "prompt_zh": "为一段15秒的动画制作专业动漫故事板，展示正宗江户前寿司（握り寿司）的烹饪过程。烹饪过程应准确反映东京高端寿司店的专业技术，同时呈现优雅的动漫风格食物展示和精致的东京寿司柜台在初夏宁静氛围中的场景。故事板应描绘金枪鱼、大脂金枪鱼和鳗鱼寿司的完整准备过程，并在所有面板中保持严格的视觉连续性。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-21"
+}

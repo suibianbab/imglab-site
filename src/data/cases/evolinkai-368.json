@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-368",
+  "title": "这条 prompt 适合需要提升旧照片质量或风格化的场景，比如老照片翻新、产品展示等，能够使图片更加现代且具有专业感。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-368/v1.png",
+  "image_alt": "这条 prompt 适合需要提升旧照片质量或风格化的场景，比如老照片翻新、产品展示等，能够使图片更加现代且具有专业感。",
+  "prompt_original": "Transform the attached image into a high resolution digital photo that looks like it was taken yesterday. Make it look like it was taken with a Canon EOS R6. Cinematic color grading and lighting. Keep details the same, only change the quality and resolution.\n\nOnce GPT-Image 2 gives you the first ultra high quality image, upload the rest of your stills and input the following prompt: do the same for these attached photos  Download all the ultra high quality images",
+  "prompt_zh": "将附带的图片转换为高分辨率的数码照片，看起来像是昨天拍摄的。使其看起来像是用佳能 EOS R6 拍摄的。使用电影色彩分级和照明。保持细节不变，只改变质量和分辨率。当 GPT-Image 2 给出第一张超高质量图像后，上传其余的静止图像并输入以下提示：对这些附带的照片做同样的处理。下载所有超高质量的图像。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-22"
+}

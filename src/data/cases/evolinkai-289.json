@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-289",
+  "title": "这条 prompt 通过详细的描述和具体的视觉元素，能够生成一幅极具电影感和时尚感的人物插画，适合用于时尚品牌宣传或电影海报设计等中文营销场景。",
+  "scene": "wechat",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-289/v1.png",
+  "image_alt": "这条 prompt 通过详细的描述和具体的视觉元素，能够生成一幅极具电影感和时尚感的人物插画，适合用于时尚品牌宣传或电影海报设计等中文营销场景。",
+  "prompt_original": "Cinematic editorial ink illustration of [HUMAN] in [SCENERY], looking back over the shoulder with realistic proportions, windblown hair and sharp confident gaze. Wearing [CLOTHING]. Loose expressive black ink linework, visible sketch construction lines, high-contrast shadows, sunlit rim glow, weathered paper texture, ink splatters, distressed print marks, realistic road-movie environment, limited three-color palette: [PALETTE], contemporary fashion poster illustration, aspect ratio 4:5.",
+  "prompt_zh": "电影风格的编辑插画，描绘[人物]在[景色]中，回头望向肩后，具有写实比例、被风吹动的头发和锐利自信的目光。穿着[服装]。采用松散而富有表现力的黑色墨水线条，可见草图构造线，高对比度阴影，阳光边缘光晕，有风化纸张质感，墨水飞溅效果，磨损印刷痕迹，现实主义公路电影环境，使用有限的三色调色板：[调色板]，现代时尚海报插画，长宽比4:5。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-21"
+}

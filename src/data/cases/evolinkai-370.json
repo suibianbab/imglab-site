@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-370",
+  "title": "这条 prompt 适合需要展示特定金额的营销场景，如促销活动或广告中精确展示价格。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-370/v1.png",
+  "image_alt": "这条 prompt 适合需要展示特定金额的营销场景，如促销活动或广告中精确展示价格。",
+  "prompt_original": "Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins in each stack until the combined value hits the target.",
+  "prompt_zh": "修改这张照片，使总金额达到244.5泰铢。调整每堆硬币的数量，直到合计金额达到目标。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-22"
+}

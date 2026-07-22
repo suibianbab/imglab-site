@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-343",
+  "title": "这条 prompt 通过复古的设计元素和个性化的内容，创造了一个独特的个人主页，适合用于展示创意工作者的作品和个人品牌，尤其适用于需要突出个性和独特性的中文营销场景。",
+  "scene": "wechat",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-343/v1.png",
+  "image_alt": "这条 prompt 通过复古的设计元素和个性化的内容，创造了一个独特的个人主页，适合用于展示创意工作者的作品和个人品牌，尤其适用于需要突出个性和独特性的中文营销场景。",
+  "prompt_original": "Design a minimal early-internet personal profile webpage / digital portfolio landing page on a large white canvas with generous negative space and a thin pastel pink browser-style frame. In the center, place a black-and-white editorial portrait of [SUBJECT], featuring soft film grain, subtle scanner texture, and low-contrast photographic tones.\n\nSurround the portrait with scattered profile metadata labels and small star-bullet elements arranged asymmetrically, resembling a playful personal résumé. Include descriptors such as:\n\n✦ creator\n✦ model\n✦ stylist\n✦ DJ\n✦ girl\n✦ photographer\n✦ collector\n✦ dreamer\n\nIn the top-left corner, create a colorful hand-drawn logo or personal brand mark. Beneath it, add a tiny timestamp and date in a small system font, mimicking an old personal homepage.\n\nIn the top-right corner, place irregular sticker-like navigation tabs in bright accent colors (pink, cyan, purple, yellow, and green). Use simple labels such as:\n\nHOME\nABOUT\nWORK\nDIARY\nLINKS\n\nScatter handwritten marker-style notes, introductions, personal thoughts, and lifestyle captions throughout the empty space. Examples:\n\n\"currently making things online\"\n\"welcome to my homepage\"\n\"music, fashion, internet\"\n\"updated today\"\n\"living between projects\"\n\nMaintain an anti-grid editorial layout with intentionally imperfect spacing and playful placement. Mix tiny system fonts, handwritten script, and casual notebook-style annotations. Keep the portrait entirely monochrome while reserving color only for the logo, navigation stickers, and a few small graphic accents.",
+  "prompt_zh": "设计一个极简风格的早期互联网个人主页/数字作品集着陆页，在一个大的白色画布上留出大量的负空间，并用浅粉色的细边框模拟浏览器样式。在中心位置放置一张[主题]的黑白编辑肖像，具有柔和的胶片颗粒、微妙的扫描纹理和低对比度的照片色调。在肖像周围不对称地散布一些个人资料元数据标签和小星星符号，类似于一个有趣的个人简历。包括以下描述：\\\\\\n- 创作者 \\\\\\n- 模特 \\\\\\n- 造型师 \\\\\\n- DJ \\\\\\n- 女孩 \\\\\\n- 摄影师 \\\\\\n- 收藏家 \\\\\\n- 梦想家 \\\\\\n在左上角创建一个彩色的手绘标志或个人品牌标记。在其下方添加一个小小的系统字体的时间戳和日期，模仿旧的个人主页。在右上角放置一些不规则的贴纸样式的导航标签，使用明亮的强调色（粉红色、青色、紫色、黄色和绿色）。使用简单的标签如：\\\\\\n- 主页 \\\\\\n- 关于 \\\\\\n- 作品 \\\\\\n- 日记 \\\\\\n- 链接 \\\\\\n在整个空白区域中随意散布手写标记风格的笔记、介绍、个人想法和生活方式说明。例如：\\\\\\n- 目前在网上创作 \\\\\\n- 欢迎来到我的主页 \\\\\\n- 音乐、时尚、互联网 \\\\\\n- 今日更新 \\\\\\n- 生活在项目之间 \\\\\\n保持一种反网格的编辑布局，故意使用不完美的间距和有趣的放置方式。混合使用小系统字体、手写体和随意的笔记本式注释。保持肖像完全单色，只在标志、导航标签和少数小图形元素上使用颜色。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-21"
+}

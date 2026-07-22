@@ -1,0 +1,14 @@
+{
+  "slug": "evolinkai-372",
+  "title": "这条 prompt 通过对比手绘蓝图和实际建成的效果，展示了设计到实现的过程，适合用于建筑设计公司或园林景观公司的宣传材料，突出其专业性和设计实现能力。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/evolinkai-372/v1.png",
+  "image_alt": "这条 prompt 通过对比手绘蓝图和实际建成的效果，展示了设计到实现的过程，适合用于建筑设计公司或园林景观公司的宣传材料，突出其专业性和设计实现能力。",
+  "prompt_original": "Architectural split-scene: left side shows a hand-sketched pencil blueprint of a wooden garden pergola on white paper, front and slight side elevation with construction lines, dimension labels, and handwritten notes, posts and crossbeams precisely drafted in a professional hand-sketched technical style. Right side shows the finished pergola fully built in a real garden, photographed from a low front-corner angle at eye level showing the full timber beam depth. Natural wood texture with realistic joints, installed on grass with surrounding plants, soft daylight and grounded shadows. Photorealistic architectural visualization.\n\nPergola Blueprint Prompt: Hand-drawn architectural pencil sketch of a wooden garden pergola on white paper. Front and slight side elevation view with clear proportions.\n\nConstruction lines, dimensions and handwritten notes visible. Wooden posts and cross beams precisely drafted. Professional but hand-sketched technical style. Clean white background.\n\nFinished Pergola: Fully built wooden pergola in a real garden, matching the exact structure and proportions from the sketch. Viewed from a low front corner perspective at eye level, showing depth and the full beam structure instead of a flat elevation. Natural wood texture with realistic joints and connections. Installed on grass with surrounding plants. Soft daylight with grounded shadows. Photorealistic architectural visualization.",
+  "prompt_zh": "建筑分屏场景：左侧展示一张手绘铅笔蓝图，描绘了白色纸张上的木质花园凉亭，包括正面和略微侧面的立面图、构造线、尺寸标签和手写笔记，立柱和横梁以专业的手绘技术风格精确绘制。右侧展示完全建成的凉亭在真实花园中的照片，从低前角平视角度拍摄，展示完整的木材梁深度。自然木纹质感，带有真实的接头，安装在草地上，周围有植物，柔和的日光和地面阴影。逼真的建筑可视化。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-21"
+}
