@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-078",
+  "title": "这条 prompt 详细描述了一个具有吸引力的动漫风格直播封面，适合用于吸引二次元爱好者或年轻观众的中文直播平台，如B站等，能够营造出温馨且互动性强的氛围。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-078/v1.png",
+  "image_alt": "这条 prompt 详细描述了一个具有吸引力的动漫风格直播封面，适合用于吸引二次元爱好者或年轻观众的中文直播平台，如B站等，能够营造出温馨且互动性强的氛围。",
+  "prompt_original": "{\r\n  \"type\": \"anime-style livestream thumbnail\",\r\n  \"character\": {\r\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"short silver hair with cyan underlights\\\"}\",\r\n    \"eyes\": \"large bright blue\",\r\n    \"outfit\": \"white collared shirt, black tie with silver accents, black jacket, black beret with a large blue heart jewel, blue jewel brooch, black choker\",\r\n    \"pose\": \"smiling gently, looking at viewer, positioned on the right side\"\r\n  },\r\n  \"background\": \"pastel blue with white clouds, sparkles, stars, small bows, and a subtle grid pattern\",\r\n  \"typography_and_ui\": {\r\n    \"top_left_speech_bubble\": \"まったりおしゃべりしよ〜♡\",\r\n    \"main_title\": {\r\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\",\r\n      \"style\": \"large, soft blue gradient, white outline, decorated with small hearts, positioned on the middle-left\"\r\n    },\r\n    \"bottom_left_badges\": {\r\n      \"count\": 3,\r\n      \"style\": \"white pill-shaped buttons with a purple heart icon on the left\",\r\n      \"labels\": [\r\n        \"{argument name=\\\"badge 1 text\\\" default=\\\"初見さん〇\\\"}\",\r\n        \"{argument name=\\\"badge 2 text\\\" default=\\\"ポイント回収〇\\\"}\",\r\n        \"{argument name=\\\"badge 3 text\\\" default=\\\"ROM〇\\\"}\"\r\n      ]\r\n    },\r\n    \"bottom_right_cloud_bubble\": \"気軽にコメントしてね♡\"\r\n  }\r\n}",
+  "prompt_zh": "动漫风格的直播缩略图，角色特征：短银发带青色挑染，大而明亮的蓝色眼睛，穿着白色领衬衫、带有银色装饰的黑色领带、黑色夹克、带有一颗大蓝色心形宝石的黑色贝雷帽、蓝色宝石胸针、黑色颈圈。姿势为温和地微笑，看向观众，位于右侧。背景为淡蓝色，有白色云朵、闪光、星星、小蝴蝶结和微妙的网格图案。文字和界面设计包括左上角的对话框（内容为“让我们轻松聊天吧〜♡”），中间左侧的大标题（默认文本为“闲聊直播”，采用柔和的蓝色渐变，白色轮廓，用小心形装饰），左下角有3个徽章（样式为白色药丸形状按钮，左侧有一个紫色心形图标，标签分别为“初次见面〇”、“积分回收〇”、“ROM〇”），右下角的云朵对话框（内容为“随意评论哦♡”）。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-22"
+}

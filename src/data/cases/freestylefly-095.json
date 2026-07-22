@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-095",
+  "title": "这条 prompt 通过丰富的细节和动感十足的描述，能够生成极具视觉冲击力的艺术作品，适合用于游戏或动漫宣传海报等需要吸引眼球的中文营销场景。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-095/v1.png",
+  "image_alt": "这条 prompt 通过丰富的细节和动感十足的描述，能够生成极具视觉冲击力的艺术作品，适合用于游戏或动漫宣传海报等需要吸引眼球的中文营销场景。",
+  "prompt_original": "A highly detailed anime illustration of a fierce female warrior with long flowing {argument name=\"hair color\" default=\"black\"} hair and piercing {argument name=\"eye color\" default=\"blue\"} eyes, wearing a mix of silver plate armor with gold trim and a {argument name=\"outfit color\" default=\"blue and white\"} tunic. She is captured in a dynamic combat stance, swinging a massive, {argument name=\"weapon type\" default=\"segmented metallic whip-sword\"} that curves dramatically into the extreme foreground. The weapon leaves a sweeping trail of kinetic energy and wind. The scene is set against a {argument name=\"background setting\" default=\"ruined battlefield with rocky terrain, floating debris, and large blue banners fluttering in the wind\"} under a dramatic cloudy sky. The artwork features cinematic lighting, intense action, and a dramatic forced perspective on the weapon.",
+  "prompt_zh": "一幅高度详细的动漫插图，描绘了一位强悍的女性战士，她有着飘逸的{argument name=\"头发颜色\" default=\"黑色\"}长发和锐利的{argument name=\"眼睛颜色\" default=\"蓝色\"}眼睛，穿着带有金色镶边的银色板甲和{argument name=\"服装颜色\" default=\"蓝白相间\"}的束腰外衣。她被捕捉在一个动态的战斗姿势中，挥舞着一把巨大的、{argument name=\"武器类型\" default=\"分段金属鞭剑\"}，这把武器在前景中弯曲得非常夸张。武器留下了一条动能和风的轨迹。场景设置在一个{argument name=\"背景环境\" default=\"满是岩石地形、漂浮碎片和随风飘扬的大蓝色旗帜的战场废墟\"}上，天空中布满了戏剧性的云层。这幅作品采用了电影般的照明效果，强烈的动作感以及对武器的戏剧性透视。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-22"
+}

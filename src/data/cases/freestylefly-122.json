@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-122",
+  "title": "这条prompt适合用于设计清爽、自然风格的绿茶饮品宣传海报，适用于强调产品特色与限时优惠的中文市场推广场景。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-122/v1.png",
+  "image_alt": "这条prompt适合用于设计清爽、自然风格的绿茶饮品宣传海报，适用于强调产品特色与限时优惠的中文市场推广场景。",
+  "prompt_original": "{\"type\": \"promotional advertisement poster for a bottled green tea beverage\", \"product\": {\"type\": \"clear plastic PET bottle filled with yellow-green tea\", \"label\": \"white label with green typography, featuring the product name '{argument name=\\\"product name\\\" default=\\\"清風茶\\\"}', subtitle '緑茶 Seifucha', and vertical text '国産茶葉使用' and '香り豊か、後味さわやか'\"}, \"background\": \"bright, fresh, sunlit outdoor atmosphere with dynamic water splashes wrapping around the bottle and vibrant green tea leaves\", \"layout\": {\"sections\": [{\"title\": \"headline\", \"position\": \"top-left\", \"text\": \"{argument name=\\\"main headline\\\" default=\\\"新発売\\\"}\", \"style\": \"large red text with a gold underline and a small green leaf accent\"}, {\"title\": \"catchphrase\", \"position\": \"mid-left\", \"text\": \"{argument name=\\\"catchphrase\\\" default=\\\"毎日に、すっきり。\\\"}\", \"style\": \"dark green text\"}, {\"title\": \"features\", \"position\": \"lower-left\", \"count\": 2, \"labels\": [\"国産茶葉使用\", \"香り豊か、後味さわやか\"], \"style\": \"white pill-shaped banners with green leaf icons\"}, {\"title\": \"price_badge\", \"position\": \"top-right\", \"text\": \"今だけ!! 特別価格 {argument name=\\\"price\\\" default=\\\"128円\\\"} (税込)\", \"style\": \"red circular sticker with white and yellow text\"}, {\"title\": \"promo_banner\", \"position\": \"bottom-left\", \"text\": \"期間限定のお得価格!\", \"style\": \"angled red ribbon with yellow and white text\"}, {\"title\": \"footer\", \"position\": \"bottom-edge\", \"text\": \"{argument name=\\\"footer text\\\" default=\\\"全国のコンビニ・スーパーで発売中\\\"}\", \"style\": \"solid green horizontal bar with a white shopping cart icon\"}]}}",
+  "prompt_zh": "为一款瓶装绿茶饮料设计促销广告海报，产品为透明塑料PET瓶装的黄绿色茶，标签为白色背景配绿色字体，显示产品名称'{argument name=\"product name\" default=\"清風茶\"}'，副标题'緑茶 Seifucha'，以及竖排文字'国産茶葉使用'和'香り豊か、後味さわやか'。背景为明亮、清新、阳光照射的户外氛围，带有动态水花环绕瓶子，并配有充满活力的绿茶叶。布局包括：左上角的主标题（大红色字体带金色下划线及小绿叶装饰），默认文本'新発売'；左侧中部的标语（深绿色字体），默认文本'毎日に、すっきり。'；左下方的特点介绍（两个白色胶囊形状横幅带绿叶图标），标签分别为'国産茶葉使用'和'香り豊か、後味さわやか'；右上角的价格标牌（圆形红色贴纸，白底黄字），文本为'今だけ!! 特別価格 {argument name=\"price\" default=\"128円\"} (税込)'；左下角的促销横幅（斜向红色缎带，黄底白字），文本为'期间限定のお得価格!'；底部边缘的页脚（实心绿色水平条带白色购物车图标），默认文本'全国のコンビニ・スーパーで発売中'。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-22"
+}
