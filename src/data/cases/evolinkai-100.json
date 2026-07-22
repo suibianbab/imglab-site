@@ -4,7 +4,7 @@
   "scene": "xhs",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-100/v1.png",
+  "image_url": "/assets/evolinkai-100/v1.webp",
   "image_alt": "这条 prompt 好在它明确了创作的具体要求（可爱、时尚、像素艺术）和参考素材（上传的图片），适合用于需要个性化定制的营销场景，如社交媒体头像、品牌吉祥物设计等。",
   "prompt_original": "Create a cute and stylish pixel-art illustration based on the uploaded image in the style of:",
   "prompt_zh": "根据上传的图片，创作一个可爱且时尚的像素艺术插图，风格为：",

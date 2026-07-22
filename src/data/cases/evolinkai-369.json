@@ -4,7 +4,7 @@
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-369/v1.png",
+  "image_url": "/assets/evolinkai-369/v1.webp",
   "image_alt": "这条 prompt 通过清晰的结构化描述，确保了不同建筑风格在视觉上的一致性和可比性，适合用于建筑设计、历史介绍或教育类内容的中文营销场景。",
   "prompt_original": "2x2 grid, do this for 4 famous architectural styles. Anchor: [Architectural Style] :: [Geometric Essence & Period]. Each panel shows a representative building in that exact style with consistent camera angle and neutral sky background.",
   "prompt_zh": "2x2网格，为4种著名的建筑风格进行展示。锚点：[建筑风格] :: [几何精髓与时期]。每个面板展示该风格的代表性建筑，并保持一致的拍摄角度和中性天空背景。",

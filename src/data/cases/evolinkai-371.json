@@ -4,7 +4,7 @@
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-371/v1.png",
+  "image_url": "/assets/evolinkai-371/v1.webp",
   "image_alt": "这句话通过对比两种不同的视觉风格（技术蓝图与3D渲染），创造出一种独特的视觉冲击力，适合用于展示产品设计过程或技术细节的创意营销场景。",
   "prompt_original": "Pick any object and slice it in half vertically, the left side rendered as a detailed technical schematic blueprint with grid lines and annotations, the right side as a polished 3D model render, the center seam flickering and glitching where the two visual realities collide.",
   "prompt_zh": "选择任意物体并将其垂直切半，左侧呈现为带有网格线和注释的详细技术蓝图，右侧呈现为精美的3D模型渲染，中间的接缝处闪烁并出现故障效果，表现出两种视觉现实的碰撞。",

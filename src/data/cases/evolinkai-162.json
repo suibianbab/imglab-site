@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-162/v1.png",
+  "image_url": "/assets/evolinkai-162/v1.webp",
   "image_alt": "这条 prompt 适合用于创意广告或艺术展览宣传，通过模拟手工拼贴的方式，可以增加视觉冲击力和独特性，吸引观众的注意力。",
   "prompt_original": "Transform the attached image into a collage artwork. Make it appear as if hand-torn from newspapers, magazines, and flyers and pasted. Every single expression should be completed using large, torn pieces of paper. Represent in detail the torn edges, wrinkles, overlaps, and glue marks on the paper. Use relatively large pieces of paper, not too small, and place them randomly at different angles and directions, with the paper orientation rotated haphazardly. Create it to look like an actual collage roughly hand-pasted by a person.",
   "prompt_zh": "将附上的图片转换成拼贴艺术作品。使其看起来像是从报纸、杂志和传单上手撕下来并粘贴的。每一个表达都应使用大块的撕纸完成。详细表现出纸张的撕边、皱褶、重叠和胶水痕迹。使用相对较大的纸片，不要太小，并随机放置在不同的角度和方向上，纸张的方向随意旋转。创作出的效果要像一个人手工粗糙粘贴的实际拼贴画。",

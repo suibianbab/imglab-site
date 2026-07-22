@@ -13,10 +13,10 @@ const platformCards = [
 ] as const;
 
 const sceneEntries = [
-  { scene: 'ecommerce', label: '电商主图', desc: '淘宝 / 京东 / 拼多多 详情页与主图', image: '/assets/evolinkai-006/v1.png' },
-  { scene: 'xhs', label: '小红书', desc: '种草图 / 笔记封面 / 大字报', image: '/assets/evolinkai-043/v1.png' },
-  { scene: 'wechat', label: '公众号封面', desc: '公众号头图 / 文章配图', image: '/assets/evolinkai-028/v1.png' },
-  { scene: 'cross-border', label: '跨境 Listing', desc: 'Amazon / Shopify / 独立站', image: '/assets/evolinkai-014/v1.png' },
+  { scene: 'ecommerce', label: '电商主图', desc: '淘宝 / 京东 / 拼多多 详情页与主图', image: '/assets/evolinkai-006/v1.webp' },
+  { scene: 'xhs', label: '小红书', desc: '种草图 / 笔记封面 / 大字报', image: '/assets/evolinkai-043/v1.webp' },
+  { scene: 'wechat', label: '公众号封面', desc: '公众号头图 / 文章配图', image: '/assets/evolinkai-028/v1.webp' },
+  { scene: 'cross-border', label: '跨境 Listing', desc: 'Amazon / Shopify / 独立站', image: '/assets/evolinkai-014/v1.webp' },
 ] as const;
 
 export default function HomePage() {

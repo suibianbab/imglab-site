@@ -4,7 +4,7 @@
   "scene": "xhs",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-126/v1.png",
+  "image_url": "/assets/evolinkai-126/v1.webp",
   "image_alt": "这条 prompt 适合用于时尚杂志或高端品牌的模特选角宣传，通过多角度、多表情的肖像展示，能够全面展现模特的多样性和专业性。",
   "prompt_original": "Black-and-white fashion casting contact sheet of [HUMAN] with [HAIR], arranged in a clean 2x2 grid of four close portrait frames against [BACKGROUND], wearing [CLOTHING] and [ACCESSORY]. Each frame shows a different expression and angle: [EXPRESSIONS]. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 4:5.",
   "prompt_zh": "黑白色调的时尚选角联系表，展示[人物]和[发型]，以干净的2x2网格排列四个近距离肖像框，背景为[背景]，穿着[服装]和[配饰]。每个框展示不同的表情和角度：[表情]。柔和的影棚灯光，清晰的单色对比，自然的皮肤质感，可见的面部细节，简洁的纯色背景，微妙的胶片颗粒感，高端编辑测试拍摄，简约的造型，亲密的拍摄距离，专业的肖像摄影，纵横比4:5。",

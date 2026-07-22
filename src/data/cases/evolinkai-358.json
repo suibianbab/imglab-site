@@ -4,7 +4,7 @@
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-358/v1.png",
+  "image_url": "/assets/evolinkai-358/v1.webp",
   "image_alt": "这条 prompt 通过详细描述创新发明的视觉呈现方式，使其不仅具有教育意义，还具备艺术美感，适合用于科技展览或高端产品的宣传场景。",
   "prompt_original": "Have done so many of these prompts on inventions. Here is another way to  visualize them with GPT Image 2\n\nFunction DrawInventionReliquary(input invention)\n\nInput Variable: [INSERT INVENTION]\n\nSystem Instruction:\nGenerate a hyper-realistic \"Innovation Reliquary Exploded Diagram.\"\n\n1. Semantic Extraction:\nAI infers:\n- Core problem solved\n- Mechanism\n- Historical era\n- Inventor culture\n- Materials\n- Failure points\n- Social impact\n\n2. Container:\nStructure: floating exploded object inside a glass museum case.\nEvery part is suspended on brass rods and fine tension wires.\n\n3. Background:\nPatent-paper wall with faint diagrams, tolerances, labels, and archive stamps.\n\n4. Integration:\nThe invention’s key insight becomes a central glowing mechanism.\n\n5. Visual Syntax:\nMaterials: brushed steel, glass, brass, aged paper, black ink.\nLighting: luxury product photography.\nNo cheap blueprint clichés.\n\nOutput:\n2x2 grid, 16:9, four world-changing inventions.",
   "prompt_zh": "已经完成了许多关于发明的提示。这里是一种使用 GPT Image 2 来可视化它们的新方法。\\\\ 函数 DrawInventionReliquary(输入发明)\\\\ 输入变量：[插入发明]\\\\ 系统指令：生成超现实的“创新遗物爆炸图”。1. 语义提取：AI 推断：- 解决的核心问题 - 机制 - 历史时期 - 发明者文化 - 材料 - 失败点 - 社会影响 2. 容器：结构：玻璃博物馆展示柜内的悬浮爆炸物体。每个部件都悬挂在黄铜杆和细张力线上。3. 背景：专利纸墙，有模糊的图表、公差、标签和档案印章。4. 集成：发明的关键见解成为中央发光的机制。5. 视觉语法：材料：拉丝钢、玻璃、黄铜、陈旧的纸张、黑色墨水。照明：豪华产品摄影风格。不使用廉价蓝图的陈词滥调。输出：2x2 网格，16:9 比例，四个改变世界的发明。",

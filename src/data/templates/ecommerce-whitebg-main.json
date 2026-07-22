@@ -2,7 +2,7 @@
   "slug": "ecommerce-whitebg-main",
   "title": "电商白底产品主图",
   "scene": "ecommerce",
-  "preview_image": "/assets/evolinkai-013/v1.png",
+  "preview_image": "/assets/evolinkai-013/v1.webp",
   "prompt_template": "A single {product_name} centered on a pure white background (RGB 255/255/255), product filling 80-85% of the frame, sharp focus on product details, soft even studio lighting from top-left at 45 degrees, subtle natural shadow beneath the product (not harsh), no text no watermark no logo, ultra-clean commercial product photography, premium e-commerce main image style, high detail, 1024x1024.",
   "variables": ["product_name"],
   "published_at": "2026-06-23"

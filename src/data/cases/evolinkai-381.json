@@ -4,7 +4,7 @@
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-381/v1.png",
+  "image_url": "/assets/evolinkai-381/v1.webp",
   "image_alt": "这条 prompt 好在详细描述了收藏玩具包装的设计要求，适合用于中文市场中针对特定IP（知识产权）的限量版或纪念版玩具营销场景。",
   "prompt_original": "SELECT * FROM Collectible_Toy_Packaging  WHERE layout_format = '2x2_Quadrant_Grid' AND targets = ARRAY['[IP_1]', '[IP_2]', '[IP_3]', '[IP_4]'] AND quadrant_structure = ARRAY[     (Zone: 'Left_Column', Material: 'Printed_Cardboard', Content: 'Massive_Typography_Title_And_Inferred_Creator_Metadata'),     (Zone: 'Center_Stage', Material: 'confection candy', Content: 'infer_main_character_and_diorama(target)'),      (Zone: 'Right_Column', Material: 'Transparent_Glossy_Vacuum_Plastic_Blister_Pack', Content: 'infer_three_iconic_props(target)_As_3D_Miniatures_With_Text_Labels') ] AND color_grading = 'Vintage_Retro_Palette_Matching_Inferred_IP_Era' AND camera = 'Product_Photography_Front_Orthographic_View';",
   "prompt_zh": "从 Collectible_Toy_Packaging 中选择所有符合以下条件的记录：布局格式为 '2x2_Quadrant_Grid'，目标包括 '[IP_1]', '[IP_2]', '[IP_3]', '[IP_4]'，四象限结构如下：左列材料为印刷纸板，内容为大标题和推断的创作者元数据；中心区域材料为糖果，内容为推断的主要角色和场景模型；右列材料为透明光泽真空塑料吸塑包装，内容为推断的三个标志性道具作为3D微缩模型并附有文字标签。色彩分级为与推断的IP时代相匹配的复古怀旧调色板，拍摄角度为产品正面正交视图。",

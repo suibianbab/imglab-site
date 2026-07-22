@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-342/v1.png",
+  "image_url": "/assets/evolinkai-342/v1.webp",
   "image_alt": "这条 prompt 通过详细描述了场景、人物和视觉元素，适合用于制作高端护肤品的营销素材，特别是针对中国市场的社交媒体推广。",
   "prompt_original": "(Luxury AI UGC skincare campaign board), warm beige aesthetic, beautiful female influencer with glowing healthy skin, holding a skincare serum bottle toward the camera, natural smile, cozy bedroom environment, soft natural daylight, realistic home setting, elegant neutral decor.\n\nLarge hero portrait on the left side.\n\nRight side featuring (6 UGC storyboard panels):\n(Hook Shot),\n(Product Introduction),\n(Product Application),\n(Lifestyle Shot),\n(Results Shot),\n(Call To Action).\n\nEach panel showing realistic influencer actions and natural expressions.\n\nBottom section featuring (Key Ingredients Box) with elegant skincare icons and ingredient highlights.\n\nAdditional product close-ups, serum texture shots, lifestyle B-roll images, premium beauty advertising layout.\n\n(Soft Natural Lighting),\n(Real & Relatable),\n(Clean Editorial Design),\n(UGC Creator Style),\n(Premium Skincare Branding),\n(Warm Beige Color Palette),\n(Photorealistic),\n(Ultra Detailed),\n(Vertical 9:16),\n(8K Quality).\n\nNegative Prompt:\nwatermark, logo, low quality, blurry, bad anatomy, distorted hands, cluttered layout, dark lighting, cartoon, CGI.",
   "prompt_zh": "(奢华AI用户生成内容护肤活动板)，温暖米色美学，美丽的女性网红拥有光泽健康的肌肤，手持护肤精华瓶对着镜头，自然微笑，舒适的卧室环境，柔和的自然日光，真实的家庭布置，优雅中性装饰。左侧为大型主角肖像。右侧展示（6个用户生成内容故事板）：(钩子镜头)、(产品介绍)、(产品使用)、(生活方式镜头)、(效果展示)、(行动号召)。每个面板展示真实网红的动作和自然表情。底部部分展示（关键成分框），配有优雅的护肤图标和成分亮点。附加产品特写，精华质地照片，生活方式B卷图片，高端美容广告布局。(柔和自然光线)、(真实且易亲近)、(干净的编辑设计)、(用户生成内容创作者风格)、(高端护肤品牌)、(温暖米色调色板)、(照片级真实感)、(超细节)、(垂直9:16比例)、(8K质量)。",

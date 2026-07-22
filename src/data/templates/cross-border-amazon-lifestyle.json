@@ -2,7 +2,7 @@
   "slug": "cross-border-amazon-lifestyle",
   "title": "Amazon 副图场景生活方式",
   "scene": "cross-border",
-  "preview_image": "/assets/evolinkai-030/v1.png",
+  "preview_image": "/assets/evolinkai-030/v1.webp",
   "prompt_template": "An Amazon secondary lifestyle image for {product_name}, 1024x1024. Scene: a {target_persona} using the product in a {setting_description} environment, authentic candid moment, natural daylight from window, shallow depth of field with focus on the product. Soft color grade matching the product's brand palette ({brand_color_hex}). Subtle brand logo in bottom-right corner at 5% size. Noe: leave 200px clear space at top for Amazon UI overlay. Style: premium lifestyle product photography, aspirational but believable, 1024x1024.",
   "variables": ["product_name", "target_persona", "setting_description", "brand_color_hex"],
   "published_at": "2026-06-23"

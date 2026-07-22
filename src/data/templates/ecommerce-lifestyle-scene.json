@@ -2,7 +2,7 @@
   "slug": "ecommerce-lifestyle-scene",
   "title": "电商场景生活方式图",
   "scene": "ecommerce",
-  "preview_image": "/assets/evolinkai-008/v1.png",
+  "preview_image": "/assets/evolinkai-008/v1.webp",
   "prompt_template": "A lifestyle scene showing {product_name} in use by a {target_user_description} in a {setting_description} environment. Authentic candid moment (not overly posed), natural daylight from a nearby window, shallow depth of field with focus on the product, color palette matching the product's brand identity ({brand_color_palette}), modern editorial commercial photography style, sense of story and aspiration, 1024x1024.",
   "variables": ["product_name", "target_user_description", "setting_description", "brand_color_palette"],
   "published_at": "2026-06-23"

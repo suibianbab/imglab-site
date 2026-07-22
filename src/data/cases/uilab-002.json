@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/uilab-002/v1.png",
+  "image_url": "/assets/uilab-002/v1.webp",
   "image_alt": "这条 prompt 详细描述了一个天气应用的界面设计，适用于需要展示清新、简洁的天气信息的中文营销场景，如旅游、户外活动等。",
   "prompt_original": "Create a vertical mobile weather app home screen for a fictional app called CLEARSKY.\nTop status bar reads 9:41 AM.\nHeader: city name \"Hangzhou\" in large thin sans serif, below it \"Partly Cloudy\" in smaller gray text.\nCenter: large temperature number \"27°\" as the dominant element.\nBelow: a horizontal hourly forecast row with 5 items (Now 27°, 14:00 28°, 15:00 29°, 16:00 28°, 17:00 26°), each with a small sun or cloud icon.\nBottom: a 7-day forecast list with day names, weather icons, high and low temperatures.\nVisual system: soft sky-blue gradient background, white cards, dark navy text, rounded sans serif, generous spacing, 4-level text hierarchy.\nNo watermark, no real branding, no broken text, no duplicate text.",
   "prompt_zh": "为一个名为CLEARSKY的虚构应用创建一个垂直的手机天气应用首页。顶部状态栏显示时间为9:41 AM。标题：城市名称“杭州”使用大号细无衬线字体，下方用较小的灰色字体显示“局部多云”。中间：大号温度数字“27°”作为主要元素。下方：一个水平的每小时天气预报行，包含5个项目（现在27°, 14:00 28°, 15:00 29°, 16:00 28°, 17:00 26°），每个项目都有一个小太阳或云图标。底部：一个7天天气预报列表，包含日期名称、天气图标、最高和最低温度。视觉系统：柔和的天蓝色渐变背景，白色卡片，深海军蓝文字，圆角无衬线字体，宽松的间距，4级文本层次结构。没有水印，没有实际品牌标识，没有断开的文字，没有重复的文字。",

@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-223/v1.png",
+  "image_url": "/assets/evolinkai-223/v1.webp",
   "image_alt": "这条 prompt 好在它详细描述了一个独特的艺术风格，结合了多种媒介和技术，适合用于高端、创意性强的中文营销场景，如品牌宣传海报或限量版艺术品推广。",
   "prompt_original": "A mixed-media portrait of [SUBJECT] showing [EXPRESSION], looking [GAZE DIRECTION], styled with [ACCESSORY/STYLING]. Realistic identity rendered with bold black sketch strokes layered over torn newspaper collage fragments and acrylic paint splashes. Editorial print texture throughout, seamlessly blending photorealism with abstract expressionism. Premium poster aesthetic with a tactile, handmade feel. High contrast composition, ultra-detailed face and eyes. [PRIMARY COLORS] and [SECONDARY COLORS] palette.",
   "prompt_zh": "一个混合媒体肖像，描绘[主题]表现出[表情]，朝[视线方向]看，风格为[配饰/造型]。现实主义身份用大胆的黑色素描线条叠加在撕裂的报纸拼贴碎片和丙烯颜料飞溅上。整个作品具有编辑印刷质感，无缝融合了超写实主义和抽象表现主义。高级海报美学，带有触感的手工感。高对比度构图，超细致的脸部和眼睛。使用[主色调]和[辅助色调]调色板。",

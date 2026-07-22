@@ -4,7 +4,7 @@
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-356/v1.png",
+  "image_url": "/assets/evolinkai-356/v1.webp",
   "image_alt": "这条提示通过简洁的步骤指导AI生成具有视觉冲击力的时代对比图，适合用于历史教育、文化展览或社交媒体上的知识普及。",
   "prompt_original": "I love these cube prompts for visualizing different eras. Pretty short but GPT Image 2 figures it out\n\n2x2 grid, do this for different years of vastly different eras:  ERA_TO_CUBE_SOLVER  INPUT ::= [TOPIC], [ERA]  STEP_1 :: infer era identity - time period or stage - dominant materials - key tools or artifacts - social/technical/cultural context - built environment or natural environment - representative agents or figures if relevant  STEP_2 :: compress into cube - large objects define cuboid edges - medium objects build internal scenes - small objects fill gaps - top, side, and front faces remain visible - everything stays inside a strict rectangular volume  STEP_3 :: create module text - large era label - short subtitle - compact bullet list - no fixed facts unless supplied  STEP_4 :: repeat across eras - preserve identical visual grammar - increase or transform complexity chronologically",
   "prompt_zh": "我喜欢这些立方体提示来可视化不同的时代。虽然很简短，但GPT Image 2能理解它。\\\\n2x2网格，为不同年代的不同时代做以下操作：ERA_TO_CUBE_SOLVER\\\\n输入格式：[主题], [时代]\\\\n步骤1：推断时代特征 - 时间段或阶段 - 主要材料 - 关键工具或文物 - 社会/技术/文化背景 - 建筑环境或自然环境 - 如果相关，代表人物或形象\\\\n步骤2：压缩成立方体 - 大物体定义立方体边缘 - 中等物体构建内部场景 - 小物体填充空隙 - 顶部、侧面和正面保持可见 - 所有内容都严格保持在矩形体积内\\\\n步骤3：创建模块文本 - 大的时代标签 - 简短的副标题 - 紧凑的项目符号列表 - 除非提供，否则不包含固定的事实\\\\n步骤4：重复应用于各个时代 - 保持相同的视觉语法 - 按时间顺序增加或转换复杂性",

@@ -2,7 +2,7 @@
   "slug": "cross-border-tiktok-916",
   "title": "TikTok Ads 9:16 钩子图",
   "scene": "cross-border",
-  "preview_image": "/assets/evolinkai-011/v1.png",
+  "preview_image": "/assets/evolinkai-011/v1.webp",
   "prompt_template": "A high-impact vertical 9:16 TikTok Ads image for {product_name}, 1024x1792. Visual hook: {hook_description} (surreal exaggeration, motion energy, or emotional moment). The product occupies 50-60% of frame center. Top 250px clear safe zone (TikTok UI). Bottom 400px clear safe zone (TikTok CTA). Bold condensed sans-serif overlay headline \"{headline_text}\" in {accent_color_hex} placed in the middle 60% of the frame. Color palette: high-contrast saturated {color_palette}. Style: high-energy direct response advertising, Nike / adidas commercial aesthetic, scroll-stopping, 1024x1792.",
   "variables": ["product_name", "hook_description", "headline_text", "accent_color_hex", "color_palette"],
   "published_at": "2026-06-23"

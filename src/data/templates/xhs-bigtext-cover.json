@@ -2,7 +2,7 @@
   "slug": "xhs-bigtext-cover",
   "title": "小红书大字报封面",
   "scene": "xhs",
-  "preview_image": "/assets/evolinkai-197/v1.png",
+  "preview_image": "/assets/evolinkai-197/v1.webp",
   "prompt_template": "A bold Xiaohongshu (RED) cover image in 3:4 vertical format. Background: solid {background_color_hex} color filling the entire frame. Center: massive bold sans-serif Chinese headline \"{headline_text}\" stacked on 2-3 lines, font color {text_color_hex}, taking up 60% of the frame. Below the headline: small emoji icon {emoji_icon} and a one-line subheadline \"{subheadline}\". Bottom-right corner: small minimalist avatar circle. Style: high-contrast, eye-catching, scroll-stopping, RED app aesthetic, 1024x1024.",
   "variables": ["background_color_hex", "headline_text", "text_color_hex", "emoji_icon", "subheadline"],
   "published_at": "2026-06-23"
