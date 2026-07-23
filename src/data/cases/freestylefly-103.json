@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-103",
+  "title": "一句话解读：这条 prompt 详细描述了一个具有未来科技感的企业场景，并通过对话和动作展现了角色与 AI 的互动，适合用于科幻类或高科技企业的中文营销场景。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-103/v1.webp",
+  "image_alt": "一句话解读：这条 prompt 详细描述了一个具有未来科技感的企业场景，并通过对话和动作展现了角色与 AI 的互动，适合用于科幻类或高科技企业的中文营销场景。",
+  "prompt_original": "{\r\n  \"type\": \"3-panel manga page\",\r\n  \"style\": \"anime, highly detailed, cinematic lighting, futuristic corporate\",\r\n  \"layout\": {\r\n    \"structure\": \"1 wide top panel, 2 square bottom panels\"\r\n  },\r\n  \"panels\": [\r\n    {\r\n      \"position\": \"top\",\r\n      \"shot\": \"wide landscape\",\r\n      \"scene\": \"Futuristic corporate lobby with floor-to-ceiling windows\",\r\n      \"lighting\": \"{argument name=\\\"time of day\\\" default=\\\"sunrise\\\"}\",\r\n      \"background\": \"City skyline featuring {argument name=\\\"landmark\\\" default=\\\"Tokyo Tower\\\"}\",\r\n      \"details\": \"Holographic displays, polished reflective floor, reception desk, lounge chairs\"\r\n    },\r\n    {\r\n      \"position\": \"bottom left\",\r\n      \"shot\": \"close-up profile\",\r\n      \"character\": \"Young woman, dark hair, black business suit\",\r\n      \"accessories\": \"Futuristic black earpiece with glowing blue light\",\r\n      \"speech_bubble\": {\r\n        \"style\": \"standard rounded\",\r\n        \"text\": \"{argument name=\\\"character dialogue\\\" default=\\\"数字はいいわ\\\"}\"\r\n      }\r\n    },\r\n    {\r\n      \"position\": \"bottom right\",\r\n      \"shot\": \"full body, walking away, touching earpiece\",\r\n      \"character\": \"Same woman, black suit, black heels, carrying a black tote bag\",\r\n      \"environment\": \"Approaching security gates\",\r\n      \"holographic_sign\": \"{argument name=\\\"floor sign\\\" default=\\\"ECHO 42F\\\"}\",\r\n      \"speech_bubble\": {\r\n        \"style\": \"futuristic angular\",\r\n        \"text\": \"{argument name=\\\"AI dialogue\\\" default=\\\"おはようございます、ユキさん。本日は記念すべき ──\\\"}\"\r\n      }\r\n    }\r\n  ]\r\n}",
+  "prompt_zh": "类型：3格漫画页；风格：动漫、高度细节、电影照明、未来主义企业；布局：1个宽顶格，2个方底格；格子：[ {位置：顶部，镜头：广角风景，场景：带落地窗的未来主义企业大厅，照明：{参数名称=\"时间\" 默认值=\"日出\"}，背景：以{参数名称=\"地标\" 默认值=\"东京塔\"}为特色的城市天际线，细节：全息显示屏、抛光反射地板、接待台、休息椅}，{位置：底部左侧，镜头：侧面特写，角色：年轻女性、黑发、黑色职业装，配饰：带有蓝色发光灯的未来主义黑色耳机，对话框：{样式：标准圆润，文本：{参数名称=\"角色对话\" 默认值=\"数字是好的\"}}}，{位置：底部右侧，镜头：全身、走开、触摸耳机，角色：同一位女性、黑色职业装、黑色高跟鞋、携带黑色手提包，环境：接近安全门，全息标志：{参数名称=\"楼层标志\" 默认值=\"ECHO 42F\"}，对话框：{样式：未来主义棱角，文本：{参数名称=\"AI对话\" 默认值=\"早上好，雪小姐。今天是一个值得纪念的日子 ──\"}}}]",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}
