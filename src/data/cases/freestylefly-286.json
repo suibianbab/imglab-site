@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-286",
+  "title": "这条 prompt 通过详细的描述展示了如何用树叶制作一个具有艺术感的角色形象，适合用于需要展示独特手工艺品或环保主题的中文营销场景。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-286/v1.webp",
+  "image_alt": "这条 prompt 通过详细的描述展示了如何用树叶制作一个具有艺术感的角色形象，适合用于需要展示独特手工艺品或环保主题的中文营销场景。",
+  "prompt_original": "[中文]\r\n{ 角色名称 } 完全由天然树叶制成，创意树叶拼贴艺术，分层绿叶和干叶构成身体、面部和衣服，可见叶脉和纹理，手工植物艺术风格，干净的白色背景，俯视平铺构图，高度细节，柔和自然光，逼真树叶纹理，8k\r\n\r\n[English]\r\n{\r\n  CHARACTER NAME\r\n} made entirely from natural leaves,\r\ncreative leaf collage art,\r\nlayered green and dry leaves forming body,\r\nface and clothes,\r\nvisible leaf veins and textures,\r\nhandcrafted botanical art style,\r\nclean white background,\r\ntop-down flat lay composition,\r\nhighly detailed,\r\nsoft natural lighting,\r\nrealistic leaf textures,\r\n8k",
+  "prompt_zh": "{角色名称}完全由天然树叶制成，创意树叶拼贴艺术，分层绿叶和干叶构成身体、面部和衣服，可见叶脉和纹理，手工植物艺术风格，干净的白色背景，俯视平铺构图，高度细节，柔和自然光，逼真树叶纹理，8k",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}
