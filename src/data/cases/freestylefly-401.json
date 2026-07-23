@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-401",
+  "title": "这条 prompt 详细描述了如何创建一个温暖、手工艺感强的纸艺插画，适合用于需要传达温馨、童趣氛围的中文营销场景，如儿童产品宣传、节日贺卡设计等。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-401/v1.webp",
+  "image_alt": "这条 prompt 详细描述了如何创建一个温暖、手工艺感强的纸艺插画，适合用于需要传达温馨、童趣氛围的中文营销场景，如儿童产品宣传、节日贺卡设计等。",
+  "prompt_original": "{\n  \"style\": \"layered paper-cut illustration, papercraft diorama, handcrafted aesthetic\",\n  \"technique\": {\n    \"layering\": \"multiple stacked paper layers with soft drop shadows between each layer\",\n    \"depth\": \"5–7 visible depth planes from foreground to background\",\n    \"edges\": \"smooth, rounded, slightly beveled paper-cut edges\",\n    \"texture\": \"subtle paper grain and fibrous texture on all surfaces\",\n    \"shadows\": \"soft, diffused inner shadows beneath each layer suggesting physical depth\"\n  },\n  \"character_design\": {\n    \"proportions\": \"chibi / cute simplified — large round head, small body (1:1.5 ratio)\",\n    \"face\": {\n      \"eyes\": \"small dot eyes, glossy highlight\",\n      \"cheeks\": \"soft circular rosy blush patches\",\n      \"nose\": \"absent or minimal dot\",\n      \"mouth\": \"simple small curve smile\"\n    },\n    \"limbs\": \"short, rounded, stubby limbs\",\n    \"outline\": \"clean smooth silhouette, no sharp corners\"\n  },\n  \"color_palette\": {\n    \"mood\": \"warm, cozy, pastel\",\n    \"tones\": [\"soft cream\", \"dusty rose\", \"sage green\", \"warm peach\", \"sky blue\", \"honey yellow\"],\n    \"saturation\": \"low-to-medium, muted and gentle\",\n    \"background\": \"warm off-white or soft gradient\"\n  },\n  \"lighting\": {\n    \"type\": \"soft ambient light from top-front\",\n    \"highlights\": \"gentle white edge highlights on top layers\",\n    \"shadows\": \"warm light tan/beige shadow tones beneath cut layers\"\n  },\n  \"environment\": {\n    \"foliage\": \"simplified rounded leaf and floral shapes as separate paper layers\",\n    \"ground\": \"curved horizon layers suggesting rolling hills\",\n    \"details\": \"tiny decorative elements — stars, small hearts, dots — cut from paper\"\n  },\n  \"overall_mood\": \"warm, whimsical, cozy, handmade, storybook\",\n  \"render_quality\": \"ultra-detailed papercraft art, studio photography lighting, sharp focus on layer edges\"\n}",
+  "prompt_zh": "风格：层叠剪纸插画，纸艺立体模型，手工美学；技术：多层堆叠的纸张，每层之间有柔和的阴影，5-7个从前景到背景可见的深度平面，边缘光滑、圆润、略带斜面的剪纸边缘，所有表面都有微妙的纸张纹理和纤维质感，每层下方有柔和的漫反射内阴影，暗示物理深度；角色设计：比例为大头小身（1:1.5），眼睛为小点眼带光泽高光，脸颊上有柔软的圆形腮红，鼻子几乎不存在或是一个小点，嘴巴是简单的微笑曲线，四肢短而圆胖，轮廓干净平滑无尖角；色彩调色板：温暖、舒适、粉彩色调，包括淡奶油色、尘粉色、鼠尾草绿、暖桃色、天蓝色、蜂蜜黄，饱和度低至中等，柔和且不刺眼，背景为暖白色或柔和渐变；照明：来自顶部前方的柔和环境光，顶层边缘有温和的白色高光，剪切层下方有温暖的浅棕色/米色阴影；环境：简化成圆形叶子和花朵形状作为单独的纸层，地平线呈弯曲状，暗示起伏的山丘，细小的装饰元素如星星、小心形、点点等由纸张剪成；整体氛围：温暖、奇想、舒适、手工制作、故事书般的；渲染质量：超细致的纸艺艺术品，工作室摄影灯光，焦点清晰在层边缘",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}
