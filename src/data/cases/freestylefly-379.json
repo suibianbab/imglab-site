@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-379",
+  "title": "这条提示详细描述了如何利用超现实与极简主义结合的创意手法来打造具有视觉冲击力的时尚大片，适合用于展示品牌高端且富有创意的形象，适用于中文市场中的时尚杂志封面或高级时装品牌的宣传材料。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-379/v1.webp",
+  "image_alt": "这条提示详细描述了如何利用超现实与极简主义结合的创意手法来打造具有视觉冲击力的时尚大片，适合用于展示品牌高端且富有创意的形象，适用于中文市场中的时尚杂志封面或高级时装品牌的宣传材料。",
+  "prompt_original": "Use reference image as style guide.\nSurreal minimalist fashion editorial photography with vibrant oversized colorful buttons as main visual theme (cyan, orange, yellow, red palette), glossy 3D surface design, clean studio lighting, ultra-smooth gradients, and high-end commercial fashion look.\nSplit-frame composition:\n\nLeft side: full-body female model standing from top to bottom, wearing bold minimalist fashion outfit inspired by reference style, confident pose, clean studio background filled with oversized colorful buttons, cinematic lighting, soft shadows, ultra-clean composition.\n\nRight side (vertically split into two parts):\nTop-right: half-body female model, different face, different pose, different outfit variation inspired by same button aesthetic, different background color mood.\nBottom-right: another half-body female model, completely different expression and pose, different styling, different background tone, maintaining same surreal button universe aesthetic.\n\nEach section visually distinct but unified by the colorful button-inspired design language, glossy surfaces, soft studio reflections, and fashion magazine editorial feel.\nHyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury campaign style, depth, contrast, 8k, 1:1 aspect ratio --style raw --v 6 --ar 1:1",
+  "prompt_zh": "使用参考图像作为风格指南。超现实极简主义时尚编辑摄影，以鲜艳的大号彩色纽扣为主要视觉主题（青色、橙色、黄色、红色调），光泽的3D表面设计，干净的工作室照明，超平滑的渐变效果，以及高端商业时尚外观。分屏构图：左半部分：全身女性模特从上到下站立，穿着受参考风格启发的大胆极简主义时尚服装，自信的姿态，背景是充满大号彩色纽扣的干净工作室背景，电影般的灯光，柔和的阴影，极其干净的构图。右半部分（垂直分成两部分）：右上角：半身女性模特，不同的面孔，不同的姿态，不同但同样受到纽扣美学启发的服装变化，不同背景色彩氛围。右下角：另一位半身女性模特，完全不同的表情和姿态，不同的造型，不同的背景色调，保持相同的超现实纽扣宇宙美学。每个部分在视觉上都有所区别，但通过彩色纽扣灵感的设计语言、光泽表面、柔和的工作室反射以及时尚杂志编辑的感觉统一起来。超写实，电影般的灯光，极其干净的构图，高端奢华广告风格，深度，对比度，8k，1:1宽高比 --style raw --v 6 --ar 1:1",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}
