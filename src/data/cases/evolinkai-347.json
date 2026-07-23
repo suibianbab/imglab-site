@@ -4,7 +4,7 @@
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-347/v1.png",
+  "image_url": "/assets/evolinkai-347/v1.webp",
   "image_alt": "这条 prompt 通过幽默的方式结合了知名人物和不寻常的情景，适合用于吸引注意力或在社交媒体上引发讨论。",
   "prompt_original": "generate image: Selfie of Sam Altman riding a bear\n\nEdit prompt: Remove the background make it transparent",
   "prompt_zh": "生成图片：Sam Altman 骑着熊的自拍照。编辑提示：去掉背景，使其透明。",

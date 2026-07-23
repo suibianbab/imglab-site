@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-287/v1.png",
+  "image_url": "/assets/evolinkai-287/v1.webp",
   "image_alt": "这条 prompt 详细描述了所需的设计风格和具体文本内容，适用于需要吸引目标受众注意力的中文营销场景，如在线教育、图书销售等。",
   "prompt_original": "Generate a 1:1 square poster with a professional advertising design aesthetic, suitable for promoting a book, course, or event. Include the following text verbatim:\n\nAd Creative Production\nAs soon as you think of it, you can play with it. AI x browser game-making is genuinely fun. Sounds hard, but it is actually easy to start. Even if you don't know code, you can build your first one.",
   "prompt_zh": "生成一个1:1正方形海报，具有专业的广告设计美感，适合推广书籍、课程或活动。请包含以下文字内容：\\",

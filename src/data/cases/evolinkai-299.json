@@ -4,7 +4,7 @@
   "scene": "xhs",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-299/v1.png",
+  "image_url": "/assets/evolinkai-299/v1.webp",
   "image_alt": "这句话适合用于描述一个游戏场景，特别是当需要将游戏中的情节与现实世界中的特定地点相结合时。对于中文营销场景来说，可以用来吸引那些对结合了当地文化的游戏内容感兴趣的玩家。",
   "prompt_original": "{argument name=\"game\" default=\"gta 6\"} in {argument name=\"location\" default=\"Bangalore's market flower\"} in India",
   "prompt_zh": "{argument name=\"game\" default=\"gta 6\"} 在印度 {argument name=\"location\" default=\"班加罗尔的花卉市场\"}",

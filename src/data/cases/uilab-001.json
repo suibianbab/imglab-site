@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/uilab-001/v1.png",
+  "image_url": "/assets/uilab-001/v1.webp",
   "image_alt": "这句话适合用于中文营销场景中，尤其是当需要为一款新的社交或餐饮类应用设计用户界面时，通过简洁明了的设计要求，能够帮助设计师快速理解并创作出符合需求的作品。",
   "prompt_original": "Create a vertical mobile onboarding screen for a fictional app called NESTING.\nHeadline: WELCOME TO NESTING.\nSupporting line: A quieter way to gather people around a table.\nButtons: Get started, I already have an account.\nSmall line illustration of three plates and two wine glasses.\nWarm cream background, coral primary button, rounded sans serif,\nclean spacing, exact readable copy.\nNo watermark. No real app branding.",
   "prompt_zh": "为一个名为 NESTING 的虚构应用程序创建一个竖向的移动端引导屏幕。标题：欢迎来到 NESTING。副标题：一种更安静的方式，让人们围桌而聚。按钮：开始使用，我已有账户。插图：三个盘子和两个酒杯的小线条画。背景色：温暖的奶油色。主按钮颜色：珊瑚色。字体：圆润无衬线字体。间距：干净整洁。文本：清晰易读。不要添加水印。不要使用真实的应用程序品牌。",

@@ -4,7 +4,7 @@
   "scene": "xhs",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-099/v1.png",
+  "image_url": "/assets/evolinkai-099/v1.webp",
   "image_alt": "这条 prompt 适合需要保持个人真实形象的中文营销场景，如个人品牌建设、职业头像制作等",
   "prompt_original": "Use only my uploaded portrait photo as the identity reference. Accurately preserve my real face shape, facial proportions, facial contours, skin tone, hairstyle outline, hair volume, hairline, and overall natural presence. Do not turn me into another person. Do not over-beautify the face. Do not create an influencer-style face, plastic skin, or anime look.",
   "prompt_zh": "仅使用我上传的肖像照片作为身份参考。准确保留我的真实脸型、面部比例、面部轮廓、肤色、发型轮廓、头发体积、发际线和整体自然状态。不要把我变成另一个人。不要过度美化脸部。不要创建网红风格的脸、塑料皮肤或动漫风格。",

@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-320/v1.png",
+  "image_url": "/assets/evolinkai-320/v1.webp",
   "image_alt": "这条 prompt 通过详细的描述，能够生成一张个性化的、具有艺术感的塔罗牌，适合用于个性化礼物或创意营销活动中的定制化产品。",
   "prompt_original": "Create a Tarot card based on what you know about me, in the classic style of Rider-Waite. Portray me as a drawn figure with an expressive, but slightly uneven black line of ink, with vivid fluctuations and variations in the stroke, with flat colors without shading. Add delicate visual elements of the Tarot around the figure. convey the texture of the paper and the feeling of a printed impression.",
   "prompt_zh": "根据你对我的了解，创作一张塔罗牌，采用经典的Rider-Waite风格。将我描绘成一个用富有表现力但略显不均匀的黑色墨线绘制的人物，线条生动且有变化，使用平涂颜色而没有阴影。在人物周围添加精致的塔罗元素。传达出纸张的质感和印刷感。",

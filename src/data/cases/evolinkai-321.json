@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-321/v1.png",
+  "image_url": "/assets/evolinkai-321/v1.webp",
   "image_alt": "这条提示详细地指导了如何制作一个高质量的故事板，适用于需要展示创意和专业性的中文营销提案，特别是影视项目或广告策划。",
   "prompt_original": "Create a professional film production storyboard for a 15-second sitcom intro montage in a premium pitch deck presentation. Use multi-panel storyboard sheet layout, cinematic 16:9 framing per panel, clean panel borders, shot descriptions beneath each frame, timing notes, and transition indicators between panels. Maintain strict character consistency for Super Mei, Edvard, and Fenrir across all panels. Include a complete sequence of title flash, living room, backyard walkies, kitchen powers, convenience store raid, monster battle, bonus domestic comedy beats, closing hero shot, and logo slam. Visual style: cinematic sitcom, high-budget live-action network comedy, production-ready fidelity, not animated or illustrated.",
   "prompt_zh": "为高端提案演示文稿中的15秒情景喜剧开场蒙太奇创建一个专业的电影制作故事板。使用多面板故事板布局，每个面板采用电影级16:9构图，清晰的面板边框，每个镜头下方附有镜头描述，时间注释以及面板之间的转场指示。确保所有面板中Super Mei、Edvard和Fenrir的角色一致性。包括完整的标题闪现、客厅、后院遛狗、厨房超能力、便利店突袭、怪物战斗、额外的家庭喜剧片段、结尾英雄镜头和标志砸入等场景序列。视觉风格：电影级情景喜剧，高预算真人网络喜剧，制作就绪的真实度，非动画或插画。",

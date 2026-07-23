@@ -4,7 +4,7 @@
   "scene": "xhs",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-081/v1.png",
+  "image_url": "/assets/evolinkai-081/v1.webp",
   "image_alt": "这条 prompt 列出了许多负面的图像特征，适合用于生成或筛选出高质量图像时排除这些不良因素，适用于需要高精度和专业度的中文营销场景，如广告设计、产品展示等。",
   "prompt_original": "low quality, blurry, distorted anatomy, extra fingers, bad hands, unrealistic smile, messy hair, cartoon, anime, watermark, logo, text, noisy image, oversaturated colors, poorly drawn face, low resolution, bad proportions. 1744x2336",
   "prompt_zh": "低质量，模糊，解剖结构扭曲，多余的手指，手部绘制糟糕，不自然的笑容，凌乱的头发，卡通，动漫，水印，标志，文字，噪点图像，过度饱和的颜色，脸部绘制糟糕，低分辨率，比例不佳。1744x2336",

@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-189/v1.png",
+  "image_url": "/assets/evolinkai-189/v1.webp",
   "image_alt": "这条 prompt 通过将多种元素融合在一个插图中，能够很好地展示城市的多样性和魅力，适合用于旅游宣传或城市形象推广。",
   "prompt_original": "Create a sophisticated flat-vector editorial pattern illustration of [Melbourne], composed as a seamless lifestyle-art collage combining iconic landmarks, local culture, vacation scenes, and symbolic city objects.",
   "prompt_zh": "创建一个精致的扁平化矢量编辑图案插图，以墨尔本为主题，构建成一个无缝的生活艺术拼贴画，结合标志性地标、当地文化、度假场景和象征性的城市物体。",

@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-330/v1.png",
+  "image_url": "/assets/evolinkai-330/v1.webp",
   "image_alt": "这条 prompt 详细描述了产品的外观、材质、颜色及拍摄风格，适合用于高端水果包装的设计展示，能够吸引对品质有高要求的消费者。",
   "prompt_original": "Professional product photography of a sculptural packaging design built for [Fruit Name]. The box is premium corrugated cardboard shaped and cut into the exact silhouette of a giant [Shape — spherical, curved, or elongated] [Fruit Name].\n\nOuter surface is printed with a bold, minimal [Pattern — geometric hexagons / organic wavy lines / botanical line-art / horizontal ridges] that echoes the natural skin texture, rendered in a duo-tone scheme of [Color 1] and [Color 2].\n\nDie-cut window panels expose the [Product Inside] nestled inside. Clean modern sans-serif text on the side reads \"[BRAND NAME]\". Eco details include a recycling icon and a sculpted corrugated [Stem / Leaf / Crown] on top.\n\nSoft diffused studio lighting, gentle drop shadows, set against a solid pastel [Background Color]. 8K, photorealistic, cinematic framing, industrial design aesthetic.",
   "prompt_zh": "一款为[水果名称]设计的雕塑包装的专业产品摄影。包装盒采用优质瓦楞纸板制成，切割成一个巨大的[形状——球形、弯曲或细长]的[水果名称]的确切轮廓。外表面印有大胆简洁的[图案——几何六边形/有机波浪线/植物线条画/水平纹理]，模仿自然果皮的质感，并以[颜色1]和[颜色2]的双色调呈现。模切窗口面板展示了内嵌的[内部产品]。侧面印有干净现代的无衬线字体，写着“[品牌名称]”。环保细节包括回收标志和顶部的瓦楞[茎/叶/冠]。柔和的散射工作室照明，轻微的阴影效果，背景为纯色柔和的[背景颜色]。8K分辨率，照片级真实感，电影构图，工业设计美学。",
