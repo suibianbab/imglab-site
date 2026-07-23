@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-016",
+  "title": "这条 prompt 详细描述了一个 VR 头显的爆炸视图海报，适合用于科技产品的营销场景，特别是强调产品内部构造和技术创新的产品介绍。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-016/v1.webp",
+  "image_alt": "这条 prompt 详细描述了一个 VR 头显的爆炸视图海报，适合用于科技产品的营销场景，特别是强调产品内部构造和技术创新的产品介绍。",
+  "prompt_original": "{\r\n  \"type\": \"exploded view product diagram poster\",\r\n  \"subject\": \"VR headset\",\r\n  \"style\": \"clean high-tech 3D render, studio lighting, glowing accents\",\r\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"soft purple and blue gradient\\\"}\",\r\n  \"header\": {\r\n    \"logo\": \"∞ {argument name=\\\"product name\\\" default=\\\"Meta Quest 3\\\"}\",\r\n    \"subtitle\": \"{argument name=\\\"main catchphrase\\\" default=\\\"まったく新しい現実を、まったく新しい構造から。\\\"}\"\r\n  },\r\n  \"layout\": {\r\n    \"centerpiece\": \"vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.\",\r\n    \"callout_labels\": {\r\n      \"count\": 8,\r\n      \"left_side\": [\r\n        \"Snapdragon® XR2 Gen 2\\n圧倒的な処理性能でリアルタイムな体験を。\",\r\n        \"調整可能なIPD機構\\n幅広いユーザーに快適なフィット感を。\",\r\n        \"精密設計されたヘッドストラップ\\n快適さと安定性を追求したエルゴノミクス。\"\r\n      ],\r\n      \"right_side\": [\r\n        \"フェイスプレート\\n洗練されたデザインと最適な重量バランス。\",\r\n        \"トラッキングカメラ\\n高精度な位置トラッキングと環境認識を実現。\",\r\n        \"パンケーキレンズ\\n薄型設計で広い視野角と鮮明な映像を提供。\",\r\n        \"高性能バッテリー\\n長時間駆動を支える最適化された電源設計。\",\r\n        \"柔らかなフェイスインターフェース\\n長時間でも快適な装着感を実現。\"\r\n      ]\r\n    },\r\n    \"footer\": {\r\n      \"left_text_block\": {\r\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"体験は、構造から進化する。\\\"}\",\r\n        \"body\": \"一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。\"\r\n      },\r\n      \"right_logo\": \"∞ Meta\"\r\n    }\r\n  }\r\n}",
+  "prompt_zh": "类型：爆炸视图产品海报，主题：VR头显，风格：干净的高科技3D渲染，工作室照明，发光亮点，背景：{argument name=\"background color\" default=\"柔和的紫色和蓝色渐变\"}，标题：{logo: \"∞ {argument name=\"product name\" default=\"Meta Quest 3\"}\", 副标题: \"{argument name=\"main catchphrase\" default=\"从全新的结构中体验全新的现实。\"}\"}，布局：{中心部分：\"垂直堆叠的VR头显爆炸视图，展示9个不同的内部组件层：外壳、摄像头传感器、带芯片的主板、煎饼镜头、内部框架、电池组、侧带、顶带和面部界面垫子。\", 标注标签：{数量：8, 左侧：[\"Snapdragon® XR2 Gen 2\\n凭借压倒性的处理性能实现实时体验。\", \"可调节IPD机制\\n为广泛的用户提供舒适的贴合感。\", \"精密设计的头带\\n追求舒适性和稳定性的符合人体工程学设计。\"], 右侧：[\"面部面板\\n精致的设计和最佳的重量平衡。\", \"跟踪摄像头\\n实现高精度的位置跟踪和环境识别。\", \"煎饼镜头\\n薄型设计提供宽广的视野角和清晰的画面。\", \"高性能电池\\n支持长时间运行的优化电源设计。\", \"柔软的面部界面\\n即使长时间佩戴也能保持舒适。\"]}, 底部：{左侧文本块：{标题：\"{argument name=\"bottom headline\" default=\"体验从结构开始进化。\"}\", 正文：\"每一个部件都融入了支撑沉浸式体验的最尖端技术和精心设计。Meta Quest 3正在从内部创造一种让人感受到未来的体验。\"}, 右侧标志：\"∞ Meta\"}}",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}

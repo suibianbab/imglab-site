@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-026",
+  "title": "这条提示详细地指定了一个2x2的人物职业肖像网格，适合用于展示不同职业形象的营销场景，例如个人品牌宣传或职业多样性展示。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-026/v1.webp",
+  "image_alt": "这条提示详细地指定了一个2x2的人物职业肖像网格，适合用于展示不同职业形象的营销场景，例如个人品牌宣传或职业多样性展示。",
+  "prompt_original": "{\r\n  \"type\": \"2x2 portrait grid\",\r\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young adult East Asian male with short black hair and a slight smile\\\"}\",\r\n  \"style\": \"photorealistic, high-resolution, professional lighting, consistent facial identity across all panels\",\r\n  \"layout\": {\r\n    \"format\": \"2x2 grid\",\r\n    \"panel_count\": 4,\r\n    \"panels\": [\r\n      {\r\n        \"position\": \"top-left\",\r\n        \"description\": \"{argument name=\\\"profession 1\\\" default=\\\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\\\"}\"\r\n      },\r\n      {\r\n        \"position\": \"top-right\",\r\n        \"description\": \"{argument name=\\\"profession 2\\\" default=\\\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\\\"}\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-left\",\r\n        \"description\": \"{argument name=\\\"profession 3\\\" default=\\\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\\\"}\"\r\n      },\r\n      {\r\n        \"position\": \"bottom-right\",\r\n        \"description\": \"{argument name=\\\"profession 4\\\" default=\\\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\\\"}\"\r\n      }\r\n    ]\r\n  }\r\n}",
+  "prompt_zh": "2x2肖像网格布局，主体为：默认为年轻的东亚男性，短黑发，略带微笑；风格为：超写实、高分辨率、专业照明、所有面板中面部特征保持一致；布局格式为2x2网格，共4个面板。面板描述分别为：左上角为身穿深海军蓝西装、白衬衫和蓝色领带的企业专业人士，背景为灰色纹理；右上角为穿着深蓝色圆领T恤的休闲装扮，背景为模糊的户外公园；左下角为戴着黄色安全帽、穿着海军蓝工作服和亮橙色高可见度背心的建筑工人，背景为模糊的仓库；右下角为身穿白色实验服搭配浅蓝色衬衫的医疗专业人士，背景为模糊的实验室。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-024",
+  "title": "这条 prompt 通过详细的描述和特定的元素（如胶片颗粒感、柔和的妆容、特定的服装和背景）创造了一个具有强烈怀旧氛围和真实感的场景，适合用于需要复古或文艺风格的中文营销场景，例如时尚品牌推广、生活方式博客等。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-024/v1.webp",
+  "image_alt": "这条 prompt 通过详细的描述和特定的元素（如胶片颗粒感、柔和的妆容、特定的服装和背景）创造了一个具有强烈怀旧氛围和真实感的场景，适合用于需要复古或文艺风格的中文营销场景，例如时尚品牌推广、生活方式博客等。",
+  "prompt_original": "A vintage 35mm film photograph of a {argument name=\"subject description\" default=\"young Asian woman\"} with {argument name=\"hair style\" default=\"long dark wavy hair and wispy bangs\"}. She is wearing a {argument name=\"clothing\" default=\"white ribbed tank top and a loose beige knit cardigan slipping off one shoulder\"}, along with a delicate silver necklace. She has soft makeup with pink blush and glossy lips, looking directly at the camera with slightly parted lips. The lighting is harsh direct camera flash, creating a candid, amateur snapshot aesthetic. The background is a {argument name=\"setting\" default=\"dimly lit, slightly messy room with clothes on a table and a wooden shelf\"}. The image features heavy film grain, slightly muted colors, and a nostalgic, highly realistic photographic texture.",
+  "prompt_zh": "一张复古的35毫米胶片照片，拍摄对象是一个{argument name=\"subject description\" default=\"年轻的亚洲女性\"}，她有{argument name=\"hair style\" default=\"长长的黑色波浪发和细碎的刘海\"}。她穿着{argument name=\"clothing\" default=\"白色罗纹背心和一件松松垮垮地滑落一边肩膀的米色针织开衫\"}，戴着一条精致的银项链。她的妆容柔和，脸颊上有粉色腮红，嘴唇涂着亮泽唇彩，直视镜头，微微张开嘴唇。光线是强烈的直接闪光灯，营造出一种坦率、业余快照的感觉。背景是一个{argument name=\"setting\" default=\"昏暗且略显凌乱的房间，桌上散落着衣物，还有一个木架子\"}。图像具有明显的胶片颗粒感，颜色稍微有些沉闷，呈现出怀旧且高度真实的摄影质感。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}
