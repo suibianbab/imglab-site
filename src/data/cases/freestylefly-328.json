@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-328",
+  "title": "这条 prompt 详细描述了如何设计一张具有东方水墨风格的电影角色宣传海报，适合用于需要展现高端、文化内涵和视觉冲击力的中文营销场景，如电影宣发、艺术展览等。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-328/v1.webp",
+  "image_alt": "这条 prompt 详细描述了如何设计一张具有东方水墨风格的电影角色宣传海报，适合用于需要展现高端、文化内涵和视觉冲击力的中文营销场景，如电影宣发、艺术展览等。",
+  "prompt_original": "A cinematic character promotional poster of [SUBJECT], vertical composition (9:16), designed with a refined East-Asian ink aesthetic and high-end visual storytelling.\n\nSTRUCTURE:\nTop-heavy hierarchical layout. The upper half features a large, highly recognizable silhouette of [SUBJECT]'s head / face / mask / upper body, forming a bold, iconic primary shape. The silhouette should be instantly identifiable.\n\nThe middle-lower section contains the full-body version of [SUBJECT] as a secondary subject, standing in a stable pose or subtle action stance, forming the visual core.\n\nCOMPOSITION STYLE:\nInside the large silhouette and around the character, use double exposure and collage storytelling. Integrate multiple elements:\n- key scenes related to [SUBJECT]\n- symbolic imagery and environment\n- small narrative figures and interactions\n- supporting visual motifs\n\nBlend everything seamlessly using clouds, mist, ink diffusion, and negative space.\n\nVISUAL FLOW:\nCreate a continuous flowing visual path from top to bottom, connecting:\n- upper silhouette\n- inner collage elements\n- full-body subject\n\nEnsure smooth eye guidance and compositional cohesion.\n\nSIDE ELEMENTS:\nAdd balanced supporting elements on left and right sides to create tension, depth, and spatial variation.\n\nSTYLE & ATMOSPHERE:\n- Large areas of negative space\n- Ink-wash diffusion edges, soft fading, subtle fragmentation\n- Eastern aesthetic: balance of emptiness and detail\n- Calm, premium, restrained, cinematic tone\n\nQUALITY:\nUltra-detailed, high resolution, layered depth, soft lighting, atmospheric perspective, cohesive series-style design.\n\nOUTPUT:\n9:16 aspect ratio, poster-ready composition.",
+  "prompt_zh": "一张电影角色宣传海报，主题为[主题]，竖版构图（9:16），设计采用精致的东亚水墨风格和高端视觉叙事。结构：顶部偏重的层次布局。上半部分展示一个大而高度可识别的[主题]头部/面部/面具/上身剪影，形成一个大胆、标志性的主要形状。剪影应立即可辨认。中下部分包含全身影像作为次要主题，以稳定的姿势或微妙的动作姿态站立，构成视觉核心。构图风格：在大剪影内部和周围使用双重曝光和拼贴叙事。整合多个元素：- 与[主题]相关的关键场景 - 象征性图像和环境 - 小型叙事人物和互动 - 辅助视觉图案通过云、雾、墨水扩散和负空间无缝融合所有元素。视觉流动：从上到下创建连续流畅的视觉路径，连接：- 上部剪影 - 内部拼贴元素 - 全身主题确保平滑的视线引导和构图连贯性。侧面元素：在左右两侧添加平衡的支持元素，以创造张力、深度和空间变化。风格与氛围：- 大面积的负空间 - 水墨扩散边缘，柔和淡出，细微碎裂 - 东方美学：空旷与细节的平衡 - 平静、高端、克制、电影化的色调质量：超精细，高分辨率，分层深度，柔和照明，大气透视，一致的系列风格设计。输出：9:16 的宽高比，适合海报的构图。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}
