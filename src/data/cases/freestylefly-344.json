@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-344",
+  "title": "这条 prompt 详细描述了图像编辑的具体要求，包括主体、姿势、服装、配饰、环境等，适合用于需要高质量、写实风格的广告或生活方式类营销场景。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-344/v1.webp",
+  "image_alt": "这条 prompt 详细描述了图像编辑的具体要求，包括主体、姿势、服装、配饰、环境等，适合用于需要高质量、写实风格的广告或生活方式类营销场景。",
+  "prompt_original": "Edit the provided image while preserving the same face identity, shape, and facial features without altering age, ethnicity, or structure. Maintain a calm, relaxed expression with the subject not looking at the camera.\n\nSubject: young woman (18–23) with soft feminine beauty, smooth glowing skin, natural texture.\nPose (strict): seated on a wooden chair, body angled sideways (45–70°), legs crossed naturally, upper body slightly leaning forward, head turned away from camera, gaze to the side. She holds a drink cup with a straw using both hands.\nFraming: full-body vertical (9:16), head to shoes visible, centered but slightly offset for natural composition.\nOutfit: light pink varsity jacket with white stripes, soft pink inner top, modest knee-length pleated skirt, white sneakers.\nAccessories: beige newsboy cap, sunglasses (on face or cap), pink shoulder bag, small earrings.\nHair: neat low bun with soft loose strands.\nEnvironment: outdoor flower shop street scene with pastel flowers (pink, soft tones), decorative plants, floral storefront.\nLighting: bright natural daylight, soft glossy skin highlights, balanced exposure, soft shadows.\nCamera: low/frog angle (slightly below, looking up), 50mm lens, shallow depth of field.\nColor grading: warm pastel palette (pink, cream), clean bright lifestyle aesthetic.\nQuality: ultra-photorealistic, 8K detail, DSLR realism, natural skin texture.\nNegative: front-facing, eye contact, close-up, cropped body, mini/short skirt, indoor scene, dark lighting, anime, cartoon, CGI, plastic skin, distorted anatomy.\n--ar 9:16 --style raw --quality high",
+  "prompt_zh": "编辑提供的图像，同时保持相同的面部特征、形状和表情，不改变年龄、种族或结构。保持冷静放松的表情，主体不要看向相机。\\\\n主体：年轻女性（18-23岁），具有柔和的女性美，光滑发光的皮肤，自然质感。\\\\n姿势（严格）：坐在木椅上，身体侧向45-70°，双腿自然交叉，上身略微前倾，头部转向远离相机的方向，目光看向一侧。她双手拿着带有吸管的饮料杯。\\\\n构图：全身垂直（9:16），从头到脚可见，居中但略有偏移以达到自然构图。\\\\n服装：浅粉色棒球夹克，白色条纹，内搭柔软粉色上衣，及膝长度的褶皱裙，白色运动鞋。\\\\n配饰：米色报童帽，太阳镜（戴在脸上或帽子上），粉色单肩包，小巧耳环。\\\\n发型：整洁的低发髻，有几缕松散的头发。\\\\n环境：户外花店街景，柔和色调的花朵（粉红色，柔和色调），装饰植物，花卉店面。\\\\n光线：明亮的自然日光，柔和的皮肤高光，平衡曝光，柔和阴影。\\\\n相机：低角度/青蛙视角（略低于视线，向上看），50mm镜头，浅景深。\\\\n色彩分级：温暖的柔和调色板（粉红色，奶油色），干净明亮的生活方式美学。\\\\n质量：超写实，8K细节，DSLR现实感，自然皮肤质感。\\\\n负面提示：正面朝向，眼神接触，特写，截断的身体，迷你/短裙，室内场景，暗光，动漫，卡通，CGI，塑料皮肤，扭曲的解剖结构。--ar 9:16 --style raw --quality high",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}

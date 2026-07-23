@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-345",
+  "title": "这条 prompt 好在它详细描述了从照片到3D模型的转换过程，并且强调了细节和质感，适合用于高端定制玩具或收藏品的营销场景。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-345/v1.webp",
+  "image_alt": "这条 prompt 好在它详细描述了从照片到3D模型的转换过程，并且强调了细节和质感，适合用于高端定制玩具或收藏品的营销场景。",
+  "prompt_original": "Transform the input photo into a high-end stylized 3D collectible figure. Large head, slightly exaggerated facial features while preserving identity. Hyper-detailed skin texture with subtle pores, realistic wrinkles, and a cinematic expression.\n\nSmooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-sharp focus, 8K render, photorealistic materials, Pixar-quality rendering, centered composition, full body, premium designer toy aesthetic.",
+  "prompt_zh": "将输入的照片转换为高端风格化的3D收藏人偶。大头，略微夸张的面部特征同时保留身份。超精细的皮肤纹理，带有微妙的毛孔、逼真的皱纹和电影般的表情。平滑的哑光乙烯基表面处理。柔和的工作室照明，干净的黑色背景。超锐利的焦点，8K渲染，照片级真实的材质，皮克斯质量的渲染，居中构图，全身，高级设计师玩具美学。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}
