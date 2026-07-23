@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-133",
+  "title": "这条 prompt 详细描述了一个极具视觉冲击力的场景，适合用于高端汽车或航空公司的广告宣传，能够吸引观众的目光并传达品牌的高端形象。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-133/v1.webp",
+  "image_alt": "这条 prompt 详细描述了一个极具视觉冲击力的场景，适合用于高端汽车或航空公司的广告宣传，能够吸引观众的目光并传达品牌的高端形象。",
+  "prompt_original": "A photorealistic, high-resolution commercial photograph of a {argument name=\"car model and color\" default=\"bright blue Alpine A110 R sports car\"} parked in the foreground inside a massive aircraft hangar. The car features a black carbon fiber hood, black roof, black alloy wheels, and a front license plate reading \"{argument name=\"license plate text\" default=\"A110 R\"}\". Directly behind the car, dominating the background, is a {argument name=\"airplane model\" default=\"white Airbus A320 commercial airliner\"} with a blue tail. The hangar has a highly polished, reflective concrete floor that mirrors the car and plane. To the left, a sign on the metal wall reads \"{argument name=\"hangar sign text\" default=\"HANGAR 05 MAINTENANCE\"}\". The hangar doors are wide open, revealing a bright, overcast sky and a distant cityscape. The lighting is soft and cinematic, highlighting the sleek aerodynamic curves of both vehicles.",
+  "prompt_zh": "一张高分辨率的商业照片，展示了一辆{argument name=\"car model and color\" default=\"亮蓝色 Alpine A110 R 跑车\"}停在巨大的飞机库前部。这辆车具有黑色碳纤维引擎盖、黑色车顶、黑色合金轮毂和一个前车牌，上面写着{argument name=\"license plate text\" default=\"A110 R\"}。在汽车后面，背景中是一架{argument name=\"airplane model\" default=\"白色空客 A320 商业客机\"}，机尾是蓝色的。飞机库的地面非常光滑且反光，映射出汽车和飞机的倒影。左边的金属墙上有一个牌子，上面写着{argument name=\"hangar sign text\" default=\"机库05 维修\"}。机库的大门敞开，可以看到外面灰蒙蒙的天空和远处的城市景观。光线柔和而富有电影感，突出了两辆车流线型的空气动力学曲线。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}

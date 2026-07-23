@@ -4,7 +4,7 @@
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-352/v1.webp",
+  "image_url": "/assets/evolinkai-352/v1.png",
   "image_alt": "这条 prompt 详细且系统地指导了如何创建一个高质量的分镜图，适合用于影视制作或广告创意等需要高度视觉化和叙事性的中文营销场景。",
   "prompt_original": "Based on the content【 *****】, create a storyboard image in 16:9 ratio, 4K resolution.\n1️⃣ Basic Setup\nMain Title + Subtitle\nAspect Ratio\nLayout Design (3-column × 9-scene storyboard grid)\n2️⃣ Style Direction\nDirector-inspired visual style\nVisual keywords (for example: Ridley Scott / low-saturation atmospheric sci-fi)\n3️⃣ Storyboard Details\nFor each scene, clearly describe:\nCamera shot\nCharacter action\nVisual progression / scene transition\nSound effects / audio cues\n4️⃣ Visual Guidelines\nColor palette and tone\nCinematic language and lighting style\n(example: desaturated earthy tones + strong rim lighting)\n5️⃣ Bottom Information Section\nCharacter profiles\nOverall mood / tone\nAudio timeline / sound design notes\nTechnical specifications\n#AIArt #AIFilm #AIStoryboard",
   "prompt_zh": "基于内容【 *****】，创建一个16:9比例、4K分辨率的分镜图。\\\\n1️⃣ 基本设置\\\\n主标题 + 副标题\\\\n纵横比\\\\n布局设计（3列 × 9场景的分镜网格）\\\\n2️⃣ 风格方向\\\\n导演风格的视觉风格\\\\n视觉关键词（例如：雷德利·斯科特 / 低饱和度氛围科幻）\\\\n3️⃣ 分镜细节\\\\n对于每个场景，清晰描述：\\\\n镜头拍摄方式\\\\n角色动作\\\\n视觉进展/场景过渡\\\\n音效/音频提示\\\\n4️⃣ 视觉指南\\\\n色彩调色板和色调\\\\n电影语言和灯光风格\\\\n（例如：低饱和度的土色调 + 强边缘光）\\\\n5️⃣ 底部信息栏\\\\n角色简介\\\\n整体情绪/基调\\\\n音频时间线/声音设计说明\\\\n技术规格",

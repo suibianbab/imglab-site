@@ -4,7 +4,7 @@
   "scene": "xhs",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-063/v1.webp",
+  "image_url": "/assets/evolinkai-063/v1.png",
   "image_alt": "这条 prompt 适合需要在社交媒体上发布个性化广告或宣传内容的奶茶店，通过将用户的照片与店铺环境结合，创造出独特且吸引眼球的视觉效果。",
   "prompt_original": "Use case: identity-preserve style-transfer\nAsset type: vertical photorealistic action portrait for social post\nPrimary request: create a dynamic bubble-tea shop action portrait using the uploaded portrait photo as the appearance reference for the person.\nScene/backdrop: a bright modern bubble-tea counter interior with stainless steel panels, glass display edges, overhead circular lights, drink-making equipment, and a dramatic low-angle view from near the floor. Pink strawberry milk tea splashes",
   "prompt_zh": "使用场景：保持身份特征的风格迁移；素材类型：用于社交媒体发布的垂直写实动作肖像；主要要求：使用上传的肖像照片作为人物外观参考，创建一个动态的奶茶店动作肖像；场景/背景：明亮现代的奶茶店柜台内部，不锈钢面板、玻璃展示边缘、头顶圆形灯光、饮料制作设备，以及从地面附近的低角度拍摄的戏剧性视角。粉色草莓牛奶茶飞溅。",

@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-176/v1.webp",
+  "image_url": "/assets/evolinkai-176/v1.png",
   "image_alt": "这句话适合用于旅游宣传，尤其是针对那些喜欢复古风和极简主义设计的城市推广活动。",
   "prompt_original": "Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LANDMARK]. Stick to a tight 3-color scheme: cream-toned paper background, black technical line drawing, plus one [COLOR] accent. Aesthetic: minimalist isometric top-down aerial perspective with very fine cross-hatching and silkscreen print grain. Color rules: fill the entire sky in flat solid [COLOR], add small [COLOR] touches on rooftops or street details. Zero gradients allowed. Typography: large bold sans-serif \"[CITY NAME]\" at the top in cream, with the city's name in its native language set smaller in cream beneath it. #AIart #GPTImage2",
   "prompt_zh": "设计一张垂直复古中世纪风格的[城市名]旅行海报，展示[地标]。使用严格的三色方案：奶油色调的纸张背景、黑色技术线条画，加上一种[颜色]作为点缀。美学风格：极简等距俯视视角，带有非常精细的交叉影线和丝网印刷纹理。颜色规则：将整个天空填充为纯色的[颜色]，并在屋顶或街道细节上添加小面积的[颜色]点缀。不允许使用渐变。字体：顶部用粗体无衬线字体写上大号的“[城市名]”（奶油色），下方用较小的奶油色字体写上该城市的本地语言名称。",

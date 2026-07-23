@@ -4,7 +4,7 @@
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-021/v1.webp",
+  "image_url": "/assets/evolinkai-021/v1.png",
   "image_alt": "这条 prompt 适合需要展现高端、活泼品牌形象的中文营销场景，特别是针对年轻消费者群体的产品推广活动。",
   "prompt_original": "GPT Image 2 Prompt Create a creative commercial advertising poster for [PRODUCT NAME], a [PRODUCT TYPE], inspired by vibrant tropical product campaigns. Place the product as a large hero object on the center-right with realistic glossy reflections, sharp label details, and premium lighting. Add a stylish model sitting beside or slightly in front of the product, naturally interacting with it by [MODEL ACTION]. The model should look [MOOD], wearing [OUTFIT STYLE], and should not cover the product label.",
   "prompt_zh": "为[产品名称]，一种[产品类型]，创作一个充满活力的热带风格创意商业广告海报。将产品作为大型主角对象放置在中心偏右的位置，带有逼真的光泽反射、清晰的标签细节和高级照明。添加一位穿着[服装风格]的时尚模特坐在产品旁边或稍微靠前的位置，通过[模特动作]自然地与产品互动。模特应看起来[情绪]，并且不应遮挡产品标签。",

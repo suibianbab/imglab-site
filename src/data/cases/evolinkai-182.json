@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-182/v1.webp",
+  "image_url": "/assets/evolinkai-182/v1.png",
   "image_alt": "这条提示适合用于制作泳装品牌的广告或宣传材料，特别是针对中国市场，强调了模特的身材曲线和多种展示方式，能够吸引目标消费者的注意力。",
   "prompt_original": "泳装时尚杂志广告页面，4:3 ，日本模特， S型曲线，【颜色】色系。（变换姿势和风格，四宫格展示）",
   "prompt_zh": "泳装时尚杂志广告页面，4:3比例，日本模特，S型曲线，【颜色】色系。（变换姿势和风格，四宫格展示）",

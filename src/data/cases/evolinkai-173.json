@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-173/v1.webp",
+  "image_url": "/assets/evolinkai-173/v1.png",
   "image_alt": "这条 prompt 好在它明确要求了通过视觉元素来传达音乐的情绪，适合用于中文市场中需要突出音乐风格而非具体艺人的场景，比如推广一个特定类型的音乐合集或创建品牌相关的音乐形象。",
   "prompt_original": "Create an album cover inspired by this playlist: [playlist], translating its mood into colors, textures, objects, and cinematic composition, with no artist names. https://t.co/t1efbQ9sgP",
   "prompt_zh": "根据这个播放列表[playlist]创作一张专辑封面，将播放列表的氛围转化为颜色、纹理、物体和电影般的构图，但不要包含任何艺术家的名字。https://t.co/t1efbQ9sgP",

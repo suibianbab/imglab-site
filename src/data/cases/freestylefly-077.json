@@ -1,14 +1,14 @@
 {
   "slug": "freestylefly-077",
-  "title": "这条提示非常适合用于设计温馨可爱的VTuber直播间封面，特别适合那些想要营造轻松聊天氛围或吸引新观众加入的中文营销场景。",
+  "title": "这条 prompt 详细描述了 VTuber 直播缩略图的设计要求，包括角色形象、色彩搭配以及文字元素的具体位置和样式，非常适合用于中文语境下的 VTuber 营销宣传，特别是针对喜欢可爱风格的观众群体。",
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
   "image_url": "/assets/freestylefly-077/v1.webp",
-  "image_alt": "这条提示非常适合用于设计温馨可爱的VTuber直播间封面，特别适合那些想要营造轻松聊天氛围或吸引新观众加入的中文营销场景。",
+  "image_alt": "这条 prompt 详细描述了 VTuber 直播缩略图的设计要求，包括角色形象、色彩搭配以及文字元素的具体位置和样式，非常适合用于中文语境下的 VTuber 营销宣传，特别是针对喜欢可爱风格的观众群体。",
   "prompt_original": "{\r\n  \"type\": \"VTuber stream thumbnail\",\r\n  \"theme\": \"pastel pink, soft, cute, lace, ribbons, hearts, bunny motif\",\r\n  \"character\": {\r\n    \"position\": \"right side, waist-up\",\r\n    \"appearance\": \"anime girl, {argument name=\\\"hair color\\\" default=\\\"pastel pink\\\"} long wavy hair, large grey eyes, blush, pink heart earrings\",\r\n    \"accessories\": \"white bunny ears, large pink bow on head\",\r\n    \"outfit\": \"white frilly dress with lace, large pink ribbon bow at collar with heart gem\"\r\n  },\r\n  \"layout\": {\r\n    \"background\": \"soft pink with subtle sparkles, lace patterns, floating hearts\",\r\n    \"text_elements\": [\r\n      {\r\n        \"type\": \"main title\",\r\n        \"position\": \"top left\",\r\n        \"style\": \"large stylized pink text with white outline\",\r\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\"\r\n      },\r\n      {\r\n        \"type\": \"speech bubble\",\r\n        \"position\": \"above main title\",\r\n        \"text\": \"まったり\"\r\n      },\r\n      {\r\n        \"type\": \"circular badge\",\r\n        \"position\": \"top right\",\r\n        \"details\": \"lace-edged with small pink bow\",\r\n        \"text\": \"きてくれてありがとう♡\"\r\n      },\r\n      {\r\n        \"type\": \"heart badge\",\r\n        \"position\": \"bottom right\",\r\n        \"details\": \"large lace-edged heart\",\r\n        \"text\": \"みんなとおしゃべりできるの楽しみにしてるね♡\"\r\n      }\r\n    ],\r\n    \"list_section\": {\r\n      \"position\": \"bottom left\",\r\n      \"count\": 3,\r\n      \"style\": \"horizontal pill-shaped banners with lace edges, each featuring a pink heart with white bunny ears and a tiny bow on the left\",\r\n      \"items\": [\r\n        \"{argument name=\\\"list item 1\\\" default=\\\"初見さん〇\\\"}\",\r\n        \"{argument name=\\\"list item 2\\\" default=\\\"ポイント回収〇\\\"}\",\r\n        \"{argument name=\\\"list item 3\\\" default=\\\"ROM〇\\\"}\"\r\n      ]\r\n    }\r\n  }\r\n}",
-  "prompt_zh": "这是一个VTuber直播缩略图，主题为柔和的粉色、可爱、蕾丝、蝴蝶结、心形图案和兔子元素。角色位于右侧，腰部以上部分展示，是一个动漫女孩形象，拥有默认为柔和粉红色的长波浪发，大灰色眼睛，脸颊泛红，佩戴着粉色心形耳环。她还戴着白色的兔耳朵和头上的大粉色蝴蝶结。她的服装是一件带有蕾丝装饰的白色褶边连衣裙，领口处有一个镶有心形宝石的大粉色蝴蝶结。背景是柔和的粉色，并带有微妙的闪光、蕾丝图案以及漂浮的心形。布局包括：左上角放置的主要标题，采用大型样式化的粉色文字并配有白色轮廓；在主标题上方有一个写着“まったり”的对话气泡；右上角有一个边缘饰有蕾丝的小粉色蝴蝶结圆形徽章，上面写着“きてくれてありがとう♡”；右下角有一个大的边缘饰有蕾丝的心形徽章，上面写着“みんなとおしゃべりできるの楽しみにしてるね♡”。此外，在左下角还有一个包含三个项目的列表区，每个项目都以水平药丸形状的横幅形式呈现，边缘饰有蕾丝，左边则有一个带有小白兔耳朵和小蝴蝶结的粉色心。",
+  "prompt_zh": "类型：VTuber直播缩略图，主题：粉嫩、柔和、可爱、蕾丝、蝴蝶结、心形图案、兔子元素，角色：右侧半身像，动漫女孩，长波浪{argument name=\"头发颜色\" default=\"粉嫩色\"}发，大灰色眼睛，腮红，粉色心形耳环，白色兔耳朵，头上戴有大粉色蝴蝶结，穿着白色带蕾丝的连衣裙，领口处有带心形宝石的大粉色蝴蝶结，布局：背景为带有微妙闪光的粉嫩色，蕾丝图案，漂浮的心形图案，文本元素：主标题位于左上角，风格为带有白色轮廓的大粉红色字体，文本内容为{argument name=\"主标题\" default=\"杂谈配信\"}，对话气泡位于主标题上方，文本为“放松”，圆形徽章位于右上角，边缘饰有蕾丝和小粉色蝴蝶结，文本为“感谢你的到来♡”，心形徽章位于右下角，边缘饰有蕾丝，文本为“期待与大家聊天♡”，列表部分位于左下角，包含3个水平的带有蕾丝边的药丸形状横幅，每个横幅左侧都有一个带有白色兔耳朵和小蝴蝶结的粉色心形图标，列表项目分别为{argument name=\"列表项1\" default=\"初次见面〇\"}、{argument name=\"列表项2\" default=\"积分回收〇\"}、{argument name=\"列表项3\" default=\"ROM〇\"}",
   "tags": [],
   "related_templates": [],
-  "published_at": "2026-07-22"
+  "published_at": "2026-07-23"
 }

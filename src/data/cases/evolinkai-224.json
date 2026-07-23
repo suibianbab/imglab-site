@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-224/v1.webp",
+  "image_url": "/assets/evolinkai-224/v1.png",
   "image_alt": "这条 prompt 适合用于展示地标建筑的微缩模型，适用于旅游宣传、建筑设计展示或文化展览等中文营销场景。",
   "prompt_original": "Isometric miniature diorama of [LANDMARK NAME], capturing its real-world structure and proportions on a small floating platform, surrounded by buildings and landscape details from [CITY / COUNTRY]. Physically accurate materials including stone, concrete, metal, and glass. True-to-life color palette, muted and realistic tones matching the actual landmark. Off-white studio background with soft natural lighting, gentle shadows, and clean composition. High-detail 3D render, premium architectural model aesthetic, no people, no text.",
   "prompt_zh": "等距微缩模型，捕捉[地标名称]的真实结构和比例，并将其放置在一个小型浮动平台上，周围是来自[城市/国家]的建筑物和景观细节。使用物理上准确的材料，包括石材、混凝土、金属和玻璃。采用真实的色彩调色板，色调柔和且逼真，与实际地标相匹配。背景为米白色工作室背景，自然柔和的光线，柔和的阴影，构图简洁。高细节3D渲染，具有高端建筑模型美学，无人物，无文字。",

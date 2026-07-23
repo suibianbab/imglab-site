@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-242/v1.webp",
+  "image_url": "/assets/evolinkai-242/v1.png",
   "image_alt": "这条 prompt 详细描述了如何设计一张具有高度视觉冲击力和信息量的体育赛事海报，适合用于大型国际赛事的宣传推广。",
   "prompt_original": "Photorealistic movie poster designed by a professional graphic designer with this concept:\n- The background is the venue, [Name of The Stadium, Location]\n- Main image showing Captain from [Country] Team: [Name] wearing national team jersey head to head with Captain from [Country] Team: [Name] wearing national team jersey\n- Main title is '[Country] vs [Country]'\n- Behind the title, waving flag of [Country] and [Country]\n- Below main title, text '[Name of The Stadium] - [Location], [Date]'\n- At the top, 'World Cup 2026' logo",
   "prompt_zh": "由专业平面设计师设计的超写实电影海报，概念如下：- 背景是场地 [体育场名称, 地点] - 主图展示来自 [国家] 队的队长 [姓名] 穿着国家队球衣与来自 [国家] 队的队长 [姓名] 穿着国家队球衣正面相对 - 主标题是 '[国家] vs [国家]' - 在标题后面，有 [国家] 和 [国家] 的国旗在飘扬 - 主标题下方的文字是 '[体育场名称] - [地点], [日期]' - 顶部是 '2026年世界杯' 标志",

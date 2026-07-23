@@ -4,7 +4,7 @@
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/uilab-003/v1.webp",
+  "image_url": "/assets/uilab-003/v1.png",
   "image_alt": "这条 prompt 非常详细地描述了一个电商直播应用的界面设计，适用于需要展示直播购物体验的中文营销场景，如电商平台推广或直播带货功能介绍。",
   "prompt_original": "Create a vertical live stream UI mockup for a fictional e-commerce live shopping app.\nMain view: portrait of a smiling person wearing a black t-shirt with a white technical schematic print, centered, holding a small skincare bottle.\nTop status bar reads 9:41 AM. Top overlay: \"LIVE\" red badge on the left, viewer count \"12.4k\" on the right.\nLeft side of lower half: a product card showing the skincare bottle thumbnail, product name \"Hydra Serum 30ml\", price \"$24.99\", and a coral \"Buy Now\" button.\nRight side: a live chat column with 4 short messages from viewers (\"Just ordered!\", \"Is it good for dry skin?\", \"Love this serum\", \"Link please\"), each with a small circular avatar.\nBottom: a comment input bar reading \"Say something...\".\nVisual system: dark overlay gradients, white readable text, rounded cards, clean spacing.\nNo watermark, no real branding, no broken text, no duplicate text.",
   "prompt_zh": "为一个虚构的电商直播购物应用创建一个垂直直播界面的原型设计。主视图：中心位置是一个穿着黑色T恤（上面印有白色技术示意图）并微笑着的人，手持一个小护肤瓶。顶部状态栏显示时间为上午9:41。顶部叠加层：左侧有一个红色的“LIVE”徽章，右侧显示观众数量“12.4k”。下半部分左侧：一个产品卡片，展示护肤瓶的缩略图、产品名称“Hydra Serum 30ml”、价格“$24.99”，以及一个珊瑚色的“立即购买”按钮。右侧：一个实时聊天列，包含4条简短的观众消息（“刚下单！”，“适合干性皮肤吗？”，“非常喜欢这个精华液”，“请提供链接”），每条消息旁边都有一个小圆形头像。底部：一个评论输入栏，显示“说点什么...”。视觉系统：深色渐变叠加层、易读的白色文本、圆角卡片、干净的间距。无水印、无真实品牌标识、无断开的文字、无重复文字。",

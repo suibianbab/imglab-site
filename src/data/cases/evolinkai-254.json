@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-254/v1.webp",
+  "image_url": "/assets/evolinkai-254/v1.png",
   "image_alt": "这条 prompt 好在详细描述了照片的细节和氛围，适合需要展示真实、个性化笔记内容的中文营销场景，例如学习方法分享、日记或手账展示等。",
   "prompt_original": "://t.co/4zY2WLrQci\n\nCandid photo of a flat open notebook covered in black ballpoint pen handwriting. Notes look personal and authentic, with slightly messy lettering, crossed-out words, and underlined section headers. Angle slightly overhead, soft natural window light, no flash. Simple desk environment, iPhone camera aesthetic.\n\n#AIart #GPTImage2",
   "prompt_zh": "一张坦率的照片，展示一本打开的笔记本，上面用黑色圆珠笔手写。笔记看起来很个人化和真实，字迹略微凌乱，有划掉的词和带下划线的章节标题。角度稍微从上方拍摄，使用柔和的自然窗光，没有闪光灯。简单的桌面环境，iPhone相机风格。",

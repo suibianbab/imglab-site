@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-150",
+  "title": "这条prompt详细描述了服装的细节、材质、光影效果以及拍摄参数，适合用于高端时装摄影或广告宣传场景，能够精确传达设计师的创意和服装的美感。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-150/v1.webp",
+  "image_alt": "这条prompt详细描述了服装的细节、材质、光影效果以及拍摄参数，适合用于高端时装摄影或广告宣传场景，能够精确传达设计师的创意和服装的美感。",
+  "prompt_original": "[中文]\r\n服裝細節： 模特兒身穿一套精緻的淡冰藍色齊胸襦裙，採用多層輕盈的薄紗和絲綢歐根紗材質制成。其寬大的、半透明的廣袖上點綴著如繁星般微小的銀色和淺藍色亮片刺繡，在光線下閃爍（具有銀河般的夢幻感）。抹胸位置有複雜的銀色蕾絲和編織紋理細節，腰帶自然垂落。\r\n\r\n材質與光影： 畫面呈現 8k 超高分辨率和對織物微距紋理的極致渲染。光線採用柔和的自然側光（丁達爾效應 Typndall Effect），精準地透射過輕薄的紗布，營造出面料的半透明感（Translucency）和流動感。\r\n\r\n構圖與鏡頭： 採用 85mm 黄金人像鏡頭效果，f/1.8 大光圈，全身構圖，模特居中站立\r\n\r\n[English]\r\nClothing details: The model wears an exquisite pale ice blue chest-high ruqun, made of multiple layers of lightweight tulle and silk organza materials. Its wide, translucent broad sleeves are adorned with tiny silver and light blue sequin embroideries like stars, shimmering under the light (with a galaxy-like dreamy feel). The tube top position has complex silver lace and woven texture details, and the belt falls naturally.\r\nMaterial and light and shadow: The image presents 8k ultra-high resolution and extreme rendering of macro textures of the fabric. The lighting uses soft natural side light (Tyndall Effect Typndall Effect), accurately transmitting through the light gauze, creating a sense of translucency (Translucency) and fluidity of the fabric.\r\nComposition and lens: Uses 85mm golden portrait lens effect, f/1.8 large aperture, full-body composition, model standing in the center",
+  "prompt_zh": "服装细节：模特身穿一套精致的淡冰蓝色齐胸襦裙，采用多层轻盈的薄纱和丝绸欧根纱材质制成。其宽大的、半透明的广袖上点缀着如繁星般微小的银色和浅蓝色亮片刺绣，在光线下闪烁（具有银河般的梦幻感）。抹胸位置有复杂的银色蕾丝和编织纹理细节，腰带自然垂落。 材质与光影：画面呈现8k超高分辨率和对织物微距纹理的极致渲染。光线采用柔和的自然侧光（丁达尔效应），精准地透射过轻薄的纱布，营造出面料的半透明感和流动感。 构图与镜头：采用85mm黄金人像镜头效果，f/1.8大光圈，全身构图，模特居中站立。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-23"
+}

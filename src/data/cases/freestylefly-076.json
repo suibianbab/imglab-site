@@ -1,14 +1,14 @@
 {
   "slug": "freestylefly-076",
-  "title": "一句话解读：这条 prompt 通过详细的描述与设定，构建了一个温馨可爱的直播场景，非常适合用于吸引年轻女性观众或喜欢二次元文化的群体，适用于中文区VTuber推广及社交媒体宣传。",
+  "title": "这条 prompt 适合用于制作吸引年轻女性观众的 VTuber 直播封面，其设计充满少女心且具有强烈的互动邀请意味。",
   "scene": "cross-border",
   "industry": "other",
   "style": "minimal",
   "image_url": "/assets/freestylefly-076/v1.webp",
-  "image_alt": "一句话解读：这条 prompt 通过详细的描述与设定，构建了一个温馨可爱的直播场景，非常适合用于吸引年轻女性观众或喜欢二次元文化的群体，适用于中文区VTuber推广及社交媒体宣传。",
+  "image_alt": "这条 prompt 适合用于制作吸引年轻女性观众的 VTuber 直播封面，其设计充满少女心且具有强烈的互动邀请意味。",
   "prompt_original": "{\r\n  \"type\": \"VTuber stream thumbnail\",\r\n  \"style\": \"anime, highly detailed, cute, sparkly, overwhelmingly pink color palette\",\r\n  \"character\": {\r\n    \"description\": \"anime girl with brown hair in twin buns, amber eyes, smiling gently\",\r\n    \"outfit\": \"pink kimono combined with a white frilly maid apron, cherry blossom hair accessories\",\r\n    \"pose\": \"holding a pink microphone decorated with a flower near her face\"\r\n  },\r\n  \"layout\": {\r\n    \"background\": \"pink gradient with sparkles, glowing hearts, and decorative pink bows\",\r\n    \"text_sections\": [\r\n      {\r\n        \"type\": \"top ribbon\",\r\n        \"text\": \"{argument name=\\\"top subtitle\\\" default=\\\"まったりおしゃべりしよ〜🤍\\\"}\"\r\n      },\r\n      {\r\n        \"type\": \"main title\",\r\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\",\r\n        \"decorations\": \"surrounded by 3 large peach illustrations\"\r\n      },\r\n      {\r\n        \"type\": \"middle ribbon\",\r\n        \"text\": \"{argument name=\\\"middle subtitle\\\" default=\\\"みんなと楽しい時間を過ごしたいなっ♡\\\"}\"\r\n      },\r\n      {\r\n        \"type\": \"bullet points\",\r\n        \"position\": \"bottom left\",\r\n        \"count\": 3,\r\n        \"icon\": \"peach\",\r\n        \"labels\": [\r\n          \"{argument name=\\\"bullet 1\\\" default=\\\"初見さん〇\\\"}\",\r\n          \"{argument name=\\\"bullet 2\\\" default=\\\"ポイント回収〇\\\"}\",\r\n          \"ROMO\"\r\n        ]\r\n      },\r\n      {\r\n        \"type\": \"speech bubble\",\r\n        \"position\": \"bottom right\",\r\n        \"text\": \"コメント大歓迎♪ いっぱいお話し しようねっ♡\"\r\n      }\r\n    ]\r\n  }\r\n}",
-  "prompt_zh": "类型：VTuber直播缩略图，风格：动漫、细节丰富、可爱、闪闪发光、以粉色调为主，角色描述：棕色头发扎成双丸子头的动漫女孩，琥珀色眼睛，温柔地微笑，服装：粉色和服搭配白色褶边女仆围裙，樱花发饰，姿势：手持一朵花装饰的粉色麦克风靠近脸部，布局：背景为带有闪光、发光爱心和装饰性粉红色蝴蝶结的粉色调渐变，文本部分：顶部丝带（默认文本：'让我们悠闲地聊天吧〜🤍'），主标题（默认文本：'杂谈直播'，被3个大的桃子插图包围），中部丝带（默认文本：'想和大家度过愉快的时光♡'），底部左侧项目符号列表（3项，图标为桃子，标签分别为：'新观众〇'、'积分回收〇'、'ROMO'），底部右侧对话框（文本：'欢迎多多评论♪ 让我们畅聊吧♡'）",
+  "prompt_zh": "类型：VTuber 直播缩略图，风格：动漫、细节丰富、可爱、闪闪发光、以粉色为主色调，角色描述：棕色头发扎成双丸子头、琥珀色眼睛、温柔微笑的动漫女孩，服装：粉色和服搭配白色荷叶边女仆围裙、樱花发饰，姿势：手持装饰有花朵的粉色麦克风靠近脸部，布局：背景为带有闪光、发光心形图案和装饰性粉红色蝴蝶结的粉色渐变，文本部分：顶部丝带文字为{argument name=\"top subtitle\" default=\"来轻松聊天吧〜🤍\"}，主标题文字为{argument name=\"main title\" default=\"闲聊直播\"}并被3个大的桃子插图包围，中部丝带文字为{argument name=\"middle subtitle\" default=\"想和大家一起度过快乐时光♡\"}，左下角包含3个带有桃子图标的项目符号，标签分别为{argument name=\"bullet 1\" default=\"欢迎新观众〇\"}、{argument name=\"bullet 2\" default=\"积分回收〇\"}和ROMO，右下角有一个对话气泡，内容为“欢迎评论♪ 让我们多多交流吧♡”",
   "tags": [],
   "related_templates": [],
-  "published_at": "2026-07-22"
+  "published_at": "2026-07-23"
 }

@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-221/v1.webp",
+  "image_url": "/assets/evolinkai-221/v1.png",
   "image_alt": "这条 prompt 好在它通过细致的描述创造了一个非常具有视觉冲击力的画面，适合用于中文营销场景中的电影或图书宣传，尤其是那些强调紧张、悬疑或强烈情感的作品。",
   "prompt_original": "Cinematic poster art: extreme close-up of a man's eyes filling a narrow horizontal band across the frame, deep black void above and below. Graphic-novel illustration style with bold red, black, and orange tones, heavy contrast, dramatic shadows, sharp highlights, raw gritty atmosphere. Eyes look fierce and emotionally charged, hair slightly disheveled.",
   "prompt_zh": "电影海报艺术：特写镜头，男人的眼睛填满画面中狭窄的水平带，上方和下方是深黑色的空间。图形小说插画风格，使用大胆的红色、黑色和橙色调，强烈的对比度，戏剧性的阴影，锐利的高光，原始粗糙的氛围。眼睛看起来凶猛且充满情感，头发略显凌乱。",

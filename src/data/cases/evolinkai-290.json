@@ -4,7 +4,7 @@
   "scene": "wechat",
   "industry": "other",
   "style": "minimal",
-  "image_url": "/assets/evolinkai-290/v1.webp",
+  "image_url": "/assets/evolinkai-290/v1.png",
   "image_alt": "这条提示适合用于制作旅游宣传材料或文化展示，能够通过精细的3D模型和丰富的环境细节吸引观众的注意力。",
   "prompt_original": "Generate an isometric miniature 3D diorama of [COUNTRY NAME]'s iconic [FAMOUS STRUCTURE] landmark from a 45-degree top-down perspective.\n\nUse clean soft textures and realistic PBR materials with balanced, natural lighting. The elevated base features surrounding streets, landscape elements, and cultural details unique to the structure. Include tiny stylized figures of locals and tourists with detailed facial features.\n\nSet the background to solid [BACKGROUND COLOR]. Display [COUNTRY NAME] in bold text at the top center with [STRUCTURE NAME] on the next line, followed by a minimal architecture icon below. Adjust text color to ensure contrast.",
   "prompt_zh": "生成一个45度俯视视角的[COUNTRY NAME]著名[FAMOUS STRUCTURE]地标的等距微型3D立体模型。使用干净柔和的纹理和逼真的PBR材质，并采用平衡、自然的照明。抬高的底座包含周围的街道、景观元素以及该地标独有的文化细节。添加具有详细面部特征的小型风格化当地人和游客人物。将背景设置为纯[BACKGROUND COLOR]色。在顶部中央用粗体显示[COUNTRY NAME]，下一行显示[STRUCTURE NAME]，并在其下方放置一个简洁的建筑图标。调整文本颜色以确保对比度。",
