@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-045",
+  "title": "这条 prompt 详细且具体地规划了一周内不同场合的穿搭建议，非常适合用于制作面向年轻职场女性或追求优雅风格人群的时尚穿搭指南内容营销。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-045/v1.webp",
+  "image_alt": "这条 prompt 详细且具体地规划了一周内不同场合的穿搭建议，非常适合用于制作面向年轻职场女性或追求优雅风格人群的时尚穿搭指南内容营销。",
+  "prompt_original": "{\r\n  \"type\": \"7-day fashion lookbook infographic\",\r\n  \"header\": {\r\n    \"title\": \"{argument name=\\\"main title\\\" default=\\\"一周穿搭指南\\\"}\",\r\n    \"subtitle\": \"{argument name=\\\"style keywords\\\" default=\\\"温柔 | 靓丽 | 优雅\\\"}\",\r\n    \"slogan_cn\": \"优雅不设限，自信每一天\",\r\n    \"slogan_en\": \"{argument name=\\\"english slogan\\\" default=\\\"ELEGANCE HAS NO LIMIT, BE CONFIDENT EVERY DAY\\\"}\"\r\n  },\r\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young elegant Asian woman\\\"}\",\r\n  \"layout\": {\r\n    \"columns\": 7,\r\n    \"column_elements\": [\r\n      \"day_header\",\r\n      \"main_portrait\",\r\n      \"4_detail_thumbnails\",\r\n      \"outfit_specs\",\r\n      \"keywords_colors\",\r\n      \"3_color_swatches\",\r\n      \"star_ratings\",\r\n      \"fabric_price\",\r\n      \"4_season_icons\"\r\n    ],\r\n    \"days\": [\r\n      { \"day\": \"周一 (MONDAY)\", \"outfit\": \"beige blazer suit\", \"scene\": \"场景：重要会议 / 正式商务\" },\r\n      { \"day\": \"周二 (TUESDAY)\", \"outfit\": \"pink blazer suit\", \"scene\": \"场景：日常通勤\" },\r\n      { \"day\": \"周三 (WEDNESDAY)\", \"outfit\": \"cream knit cardigan set\", \"scene\": \"场景：生活休闲\" },\r\n      { \"day\": \"周四 (THURSDAY)\", \"outfit\": \"champagne slip dress\", \"scene\": \"场景：外出私会\" },\r\n      { \"day\": \"周五 (FRIDAY)\", \"outfit\": \"blue knit top, white skirt\", \"scene\": \"场景：休闲社交\" },\r\n      { \"day\": \"周六 (SATURDAY)\", \"outfit\": \"white sports bra, purple leggings\", \"scene\": \"场景：运动休闲\" },\r\n      { \"day\": \"周日 (SUNDAY)\", \"outfit\": \"beige lounge knitwear\", \"scene\": \"场景：居家 / 约会\" }\r\n    ]\r\n  },\r\n  \"footer\": {\r\n    \"tips\": \"{argument name=\\\"footer tips\\\" default=\\\"Tips: 根据天气与场合灵活调整，配饰是提升整体造型的关键；保持自信与舒适，才是穿搭的最终目的。\\\"}\",\r\n    \"legend\": [\r\n      \"春: 春季适用\",\r\n      \"夏: 夏季适用\",\r\n      \"秋: 秋季适用\",\r\n      \"冬: 冬季适用\"\r\n    ]\r\n  }\r\n}",
+  "prompt_zh": "这是一份7天时尚穿搭指南的信息图，包含标题、副标题、中文标语、英文标语、主体描述、布局和页脚等部分。标题默认为“一周穿搭指南”，副标题默认为“温柔 | 靓丽 | 优雅”，中文标语为“优雅不设限，自信每一天”，英文标语默认为“ELEGANCE HAS NO LIMIT, BE CONFIDENT EVERY DAY”。主体描述默认为“年轻优雅的亚洲女性”。布局由7列组成，每列元素包括日期标题、主要肖像、4个细节缩略图、服装规格、关键词与颜色、3个色块、星级评分、面料价格及4个季节图标。从周一到周日的服装分别为：米色西装套装（重要会议/正式商务）、粉色西装套装（日常通勤）、奶油色针织开衫套装（生活休闲）、香槟色吊带裙（外出私会）、蓝色针织上衣搭配白色裙子（休闲社交）、白色运动文胸搭配紫色紧身裤（运动休闲）以及米色休闲针织装（居家/约会）。页脚提供了一些小贴士，并附有适用季节的说明。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-24"
+}

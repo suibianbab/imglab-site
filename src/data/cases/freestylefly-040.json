@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-040",
+  "title": "这句话适合用于高端时尚杂志或广告中，强调模特的细节和情感表达，能够吸引观众的注意力并传达一种强烈的视觉冲击力。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-040/v1.webp",
+  "image_alt": "这句话适合用于高端时尚杂志或广告中，强调模特的细节和情感表达，能够吸引观众的注意力并传达一种强烈的视觉冲击力。",
+  "prompt_original": "A striking black and white close-up portrait of a {argument name=\"subject description\" default=\"handsome young Asian man\"} with {argument name=\"hair style\" default=\"messy wet hair sticking to his forehead\"}. His face and neck are glistening, covered in highly detailed {argument name=\"skin texture detail\" default=\"water droplets and sweat\"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name=\"background\" default=\"pitch-black background\"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.",
+  "prompt_zh": "一张引人注目的黑白特写肖像，拍摄对象是{argument name=\"subject description\" default=\"帅气的年轻亚洲男子\"}，他的发型是{argument name=\"hair style\" default=\"凌乱的湿发贴在额头上\"}。他的脸部和颈部闪闪发光，布满了非常细致的{argument name=\"skin texture detail\" default=\"水珠和汗水\"}。他目光深邃忧郁，注视着镜头左侧。灯光戏剧化且对比强烈，突出了他棱角分明的下颌线、饱满的嘴唇以及湿润皮肤上的高光，背景为{argument name=\"background\" default=\"纯黑色背景\"}。照片以高度逼真的高级时尚编辑风格拍摄，带有电影般的明暗对比。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-24"
+}
