@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-071",
+  "title": "这条提示详细描述了一个欧洲冠军联赛的信息图海报的设计，适合用于体育赛事宣传或营销活动，特别是针对足球迷和相关品牌推广。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-071/v1.webp",
+  "image_alt": "这条提示详细描述了一个欧洲冠军联赛的信息图海报的设计，适合用于体育赛事宣传或营销活动，特别是针对足球迷和相关品牌推广。",
+  "prompt_original": "{\r\n  \"type\": \"sports match infographic poster\",\r\n  \"theme\": \"UEFA Champions League\",\r\n  \"background\": \"dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom\",\r\n  \"header\": {\r\n    \"logo\": \"UEFA Champions League\",\r\n    \"title\": \"{argument name=\\\"stage\\\" default=\\\"HALBFINALE\\\"}\",\r\n    \"subtitle\": \"DAS ZIEL: {argument name=\\\"location\\\" default=\\\"BUDAPEST 2026\\\"}\",\r\n    \"venue\": \"PUSKÁS ARÉNA\"\r\n  },\r\n  \"matchup\": {\r\n    \"player_left\": \"{argument name=\\\"team 1 player\\\" default=\\\"Harry Kane\\\"} in red FC Bayern kit\",\r\n    \"player_right\": \"{argument name=\\\"team 2 player\\\" default=\\\"Ousmane Dembélé\\\"} in blue PSG kit\",\r\n    \"center_logos\": \"FC Bayern München and Paris Saint-Germain with VS\",\r\n    \"date_box\": \"calendar icon, MITTWOCH, {argument name=\\\"date\\\" default=\\\"06.05.2026\\\"}\"\r\n  },\r\n  \"facts_section\": {\r\n    \"title\": \"FACTS\",\r\n    \"count\": 5,\r\n    \"items\": [\r\n      \"Trophy icon: DIE KÖNIGSKLASSE 2025/26\",\r\n      \"Bar chart icon: KANE IN TOPFORM\",\r\n      \"Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER\",\r\n      \"Two people icon: BISHER 14 DUELLE\",\r\n      \"Stadium icon: BUDAPEST RUFT\"\r\n    ]\r\n  },\r\n  \"footer\": {\r\n    \"trophy\": \"Champions League trophy on right\",\r\n    \"stadium_image\": \"Puskás Aréna at night\",\r\n    \"tagline\": \"EIN TRAUM. EIN ZIEL. EIN TITEL.\",\r\n    \"bottom_text\": \"ROAD TO BUDAPEST 2026\"\r\n  }\r\n}",
+  "prompt_zh": "设计一个体育比赛信息图海报，主题为欧洲冠军联赛。背景为深蓝色和紫色的宇宙天空，带有发光的蓝色六边形线条，底部有水中倒映的体育场。标题部分包括：UEFA Champions League标志、阶段名称（默认为“半决赛”）、副标题“目标：{地点，默认为布达佩斯2026}”、场地名称“普斯卡什竞技场”。对阵部分包括：左侧球员为身穿红色拜仁慕尼黑球衣的{球队1球员，默认为哈里·凯恩}，右侧球员为身穿蓝色巴黎圣日耳曼球衣的{球队2球员，默认为奥斯曼·登贝莱}，中间为拜仁慕尼黑与巴黎圣日耳曼的队徽及“VS”，日期框内含日历图标、星期三、{日期，默认为2026年5月6日}。事实部分标题为“FACTS”，包含5项内容：奖杯图标-2025/26赛季的王者级别；柱状图图标-凯恩状态极佳；闪电图标-登贝莱表现出色；两个人图标-至今已有14次对决；体育场图标-布达佩斯在召唤。底部包括：右侧放置欧洲冠军联赛奖杯，夜晚的普斯卡什竞技场图片，标语“一个梦想，一个目标，一个冠军”，最下方文字“通往布达佩斯2026之路”。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-24"
+}

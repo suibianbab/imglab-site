@@ -1,0 +1,14 @@
+{
+  "slug": "freestylefly-126",
+  "title": "这条 prompt 描述了一个高端化妆品广告场景，通过细致入微的视觉元素和文字描述，营造出一种奢华、优雅的感觉，适合用于高端护肤品或化妆品的中文营销场景。",
+  "scene": "cross-border",
+  "industry": "other",
+  "style": "minimal",
+  "image_url": "/assets/freestylefly-126/v1.webp",
+  "image_alt": "这条 prompt 描述了一个高端化妆品广告场景，通过细致入微的视觉元素和文字描述，营造出一种奢华、优雅的感觉，适合用于高端护肤品或化妆品的中文营销场景。",
+  "prompt_original": "A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name=\"brand name\" default=\"LUMIÉRE\"} and {argument name=\"product type\" default=\"MOISTURE RICH CREAM\"} with \"AGING CARE*\" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name=\"main headline\" default=\"肌に、静かな贅沢を。\"} above a small decorative gold divider and the text {argument name=\"subheadline\" default=\"高保湿×エイジングケア*\"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name=\"button text\" default=\"詳しく見る\"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.",
+  "prompt_zh": "一款奢华化妆品广告，展示一个优雅的玻璃罐子，配有闪亮的金色盖子，放在一块圆形浅色大理石板上。罐子上有金色文字写着{argument name=\"品牌名称\" default=\"LUMIÉRE\"}和{argument name=\"产品类型\" default=\"滋润霜\"}，下面有“抗老化*”。背景是柔和的、垂挂的、带有微妙光泽的香槟色丝绸布料，左侧点缀着精致的白色花朵。灯光温暖、空灵且充满阳光，带有柔和的散景效果。顶部中央，优雅的深棕色日文标题写着{argument name=\"主标题\" default=\"给肌肤，宁静的奢华。\"}，上面有一个小的装饰性金色分隔线，下面是文本{argument name=\"副标题\" default=\"高保湿×抗老化*\"}。罐子右侧，一个细金圆圈内包含日文，意为“密集保湿，高品质紧致与光彩”。底部中央是一个带有细金边的深色矩形行动号召按钮，上面写着{argument name=\"按钮文字\" default=\"查看详情\"}并带有一个向右指的箭头。在右下角，微小的精细印刷字体包含日文，意为'*根据年龄护理'。",
+  "tags": [],
+  "related_templates": [],
+  "published_at": "2026-07-24"
+}
